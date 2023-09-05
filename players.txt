@@ -1,0 +1,5530 @@
+{
+    "Precious Achiuwa": {
+        "bio": {
+            "fname": "Precious",
+            "lname": "Achiuwa",
+            "suffix": ""
+        },
+        "url": "/players/a/achiupr01.html"
+    },
+    "Steven Adams": {
+        "bio": {
+            "fname": "Steven",
+            "lname": "Adams",
+            "suffix": ""
+        },
+        "url": "/players/a/adamsst01.html"
+    },
+    "Bam Adebayo": {
+        "bio": {
+            "fname": "Bam",
+            "lname": "Adebayo",
+            "suffix": ""
+        },
+        "url": "/players/a/adebaba01.html"
+    },
+    "Ochai Agbaji": {
+        "bio": {
+            "fname": "Ochai",
+            "lname": "Agbaji",
+            "suffix": ""
+        },
+        "url": "/players/a/agbajoc01.html"
+    },
+    "Santi Aldama": {
+        "bio": {
+            "fname": "Santi",
+            "lname": "Aldama",
+            "suffix": ""
+        },
+        "url": "/players/a/aldamsa01.html"
+    },
+    "Ty-Shon Alexander": {
+        "bio": {
+            "fname": "Ty-Shon",
+            "lname": "Alexander",
+            "suffix": ""
+        },
+        "url": "/players/a/alexaty01.html"
+    },
+    "Nickeil Alexander-Walker": {
+        "bio": {
+            "fname": "Nickeil",
+            "lname": "Alexander-Walker",
+            "suffix": ""
+        },
+        "url": "/players/a/alexani01.html"
+    },
+    "Rawle Alkins": {
+        "bio": {
+            "fname": "Rawle",
+            "lname": "Alkins",
+            "suffix": ""
+        },
+        "url": "/players/a/alkinra01.html"
+    },
+    "Grayson Allen": {
+        "bio": {
+            "fname": "Grayson",
+            "lname": "Allen",
+            "suffix": ""
+        },
+        "url": "/players/a/allengr01.html"
+    },
+    "Jarrett Allen": {
+        "bio": {
+            "fname": "Jarrett",
+            "lname": "Allen",
+            "suffix": ""
+        },
+        "url": "/players/a/allenja01.html"
+    },
+    "Jose Alvarado": {
+        "bio": {
+            "fname": "Jose",
+            "lname": "Alvarado",
+            "suffix": ""
+        },
+        "url": "/players/a/alvarjo01.html"
+    },
+    "Justin Anderson": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "Anderson",
+            "suffix": ""
+        },
+        "url": "/players/a/anderju01.html"
+    },
+    "Kyle Anderson": {
+        "bio": {
+            "fname": "Kyle",
+            "lname": "Anderson",
+            "suffix": ""
+        },
+        "url": "/players/a/anderky01.html"
+    },
+    "Giannis Antetokounmpo": {
+        "bio": {
+            "fname": "Giannis",
+            "lname": "Antetokounmpo",
+            "suffix": ""
+        },
+        "url": "/players/a/antetgi01.html"
+    },
+    "Kostas Antetokounmpo": {
+        "bio": {
+            "fname": "Kostas",
+            "lname": "Antetokounmpo",
+            "suffix": ""
+        },
+        "url": "/players/a/antetko01.html"
+    },
+    "Thanasis Antetokounmpo": {
+        "bio": {
+            "fname": "Thanasis",
+            "lname": "Antetokounmpo",
+            "suffix": ""
+        },
+        "url": "/players/a/antetth01.html"
+    },
+    "Cole Anthony": {
+        "bio": {
+            "fname": "Cole",
+            "lname": "Anthony",
+            "suffix": ""
+        },
+        "url": "/players/a/anthoco01.html"
+    },
+    "OG Anunoby": {
+        "bio": {
+            "fname": "OG",
+            "lname": "Anunoby",
+            "suffix": ""
+        },
+        "url": "/players/a/anunoog01.html"
+    },
+    "Ryan Arcidiacono": {
+        "bio": {
+            "fname": "Ryan",
+            "lname": "Arcidiacono",
+            "suffix": ""
+        },
+        "url": "/players/a/arcidry01.html"
+    },
+    "Trevor Ariza": {
+        "bio": {
+            "fname": "Trevor",
+            "lname": "Ariza",
+            "suffix": ""
+        },
+        "url": "/players/a/arizatr01.html"
+    },
+    "Deni Avdija": {
+        "bio": {
+            "fname": "Deni",
+            "lname": "Avdija",
+            "suffix": ""
+        },
+        "url": "/players/a/avdijde01.html"
+    },
+    "Joel Ayayi": {
+        "bio": {
+            "fname": "Joel",
+            "lname": "Ayayi",
+            "suffix": ""
+        },
+        "url": "/players/a/ayayijo01.html"
+    },
+    "Deandre Ayton": {
+        "bio": {
+            "fname": "Deandre",
+            "lname": "Ayton",
+            "suffix": ""
+        },
+        "url": "/players/a/aytonde01.html"
+    },
+    "Udoka Azubuike": {
+        "bio": {
+            "fname": "Udoka",
+            "lname": "Azubuike",
+            "suffix": ""
+        },
+        "url": "/players/a/azubuud01.html"
+    },
+    "Marvin Bagley III": {
+        "bio": {
+            "fname": "Marvin",
+            "lname": "Bagley",
+            "suffix": "III"
+        },
+        "url": "/players/b/baglema01.html"
+    },
+    "Patrick Baldwin Jr.": {
+        "bio": {
+            "fname": "Patrick",
+            "lname": "Baldwin",
+            "suffix": "Jr."
+        },
+        "url": "/players/b/baldwpa01.html"
+    },
+    "LaMelo Ball": {
+        "bio": {
+            "fname": "LaMelo",
+            "lname": "Ball",
+            "suffix": ""
+        },
+        "url": "/players/b/ballla01.html"
+    },
+    "Lonzo Ball": {
+        "bio": {
+            "fname": "Lonzo",
+            "lname": "Ball",
+            "suffix": ""
+        },
+        "url": "/players/b/balllo01.html"
+    },
+    "Mo Bamba": {
+        "bio": {
+            "fname": "Mo",
+            "lname": "Bamba",
+            "suffix": ""
+        },
+        "url": "/players/b/bambamo01.html"
+    },
+    "Paolo Banchero": {
+        "bio": {
+            "fname": "Paolo",
+            "lname": "Banchero",
+            "suffix": ""
+        },
+        "url": "/players/b/banchpa01.html"
+    },
+    "Desmond Bane": {
+        "bio": {
+            "fname": "Desmond",
+            "lname": "Bane",
+            "suffix": ""
+        },
+        "url": "/players/b/banede01.html"
+    },
+    "Dalano Banton": {
+        "bio": {
+            "fname": "Dalano",
+            "lname": "Banton",
+            "suffix": ""
+        },
+        "url": "/players/b/bantoda01.html"
+    },
+    "Cat Barber": {
+        "bio": {
+            "fname": "Cat",
+            "lname": "Barber",
+            "suffix": ""
+        },
+        "url": "/players/b/barbeca01.html"
+    },
+    "Dominick Barlow": {
+        "bio": {
+            "fname": "Dominick",
+            "lname": "Barlow",
+            "suffix": ""
+        },
+        "url": "/players/b/barlodo01.html"
+    },
+    "Harrison Barnes": {
+        "bio": {
+            "fname": "Harrison",
+            "lname": "Barnes",
+            "suffix": ""
+        },
+        "url": "/players/b/barneha02.html"
+    },
+    "Scottie Barnes": {
+        "bio": {
+            "fname": "Scottie",
+            "lname": "Barnes",
+            "suffix": ""
+        },
+        "url": "/players/b/barnesc01.html"
+    },
+    "RJ Barrett": {
+        "bio": {
+            "fname": "RJ",
+            "lname": "Barrett",
+            "suffix": ""
+        },
+        "url": "/players/b/barrerj01.html"
+    },
+    "Will Barton": {
+        "bio": {
+            "fname": "Will",
+            "lname": "Barton",
+            "suffix": ""
+        },
+        "url": "/players/b/bartowi01.html"
+    },
+    "Paris Bass": {
+        "bio": {
+            "fname": "Paris",
+            "lname": "Bass",
+            "suffix": ""
+        },
+        "url": "/players/b/basspa01.html"
+    },
+    "Charles Bassey": {
+        "bio": {
+            "fname": "Charles",
+            "lname": "Bassey",
+            "suffix": ""
+        },
+        "url": "/players/b/bassech01.html"
+    },
+    "Keita Bates-Diop": {
+        "bio": {
+            "fname": "Keita",
+            "lname": "Bates-Diop",
+            "suffix": ""
+        },
+        "url": "/players/b/bateske01.html"
+    },
+    "Nicolas Batum": {
+        "bio": {
+            "fname": "Nicolas",
+            "lname": "Batum",
+            "suffix": ""
+        },
+        "url": "/players/b/batumni01.html"
+    },
+    "Kent Bazemore": {
+        "bio": {
+            "fname": "Kent",
+            "lname": "Bazemore",
+            "suffix": ""
+        },
+        "url": "/players/b/bazemke01.html"
+    },
+    "Darius Bazley": {
+        "bio": {
+            "fname": "Darius",
+            "lname": "Bazley",
+            "suffix": ""
+        },
+        "url": "/players/b/bazleda01.html"
+    },
+    "Bradley Beal": {
+        "bio": {
+            "fname": "Bradley",
+            "lname": "Beal",
+            "suffix": ""
+        },
+        "url": "/players/b/bealbr01.html"
+    },
+    "Malik Beasley": {
+        "bio": {
+            "fname": "Malik",
+            "lname": "Beasley",
+            "suffix": ""
+        },
+        "url": "/players/b/beaslma01.html"
+    },
+    "MarJon Beauchamp": {
+        "bio": {
+            "fname": "MarJon",
+            "lname": "Beauchamp",
+            "suffix": ""
+        },
+        "url": "/players/b/beaucma01.html"
+    },
+    "Jordan Bell": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Bell",
+            "suffix": ""
+        },
+        "url": "/players/b/belljo01.html"
+    },
+    "DeAndre' Bembry": {
+        "bio": {
+            "fname": "DeAndre'",
+            "lname": "Bembry",
+            "suffix": ""
+        },
+        "url": "/players/b/bembrde01.html"
+    },
+    "D\u0101vis Bert\u0101ns": {
+        "bio": {
+            "fname": "D\u0101vis",
+            "lname": "Bert\u0101ns",
+            "suffix": ""
+        },
+        "url": "/players/b/bertada01.html"
+    },
+    "Patrick Beverley": {
+        "bio": {
+            "fname": "Patrick",
+            "lname": "Beverley",
+            "suffix": ""
+        },
+        "url": "/players/b/beverpa01.html"
+    },
+    "Saddiq Bey": {
+        "bio": {
+            "fname": "Saddiq",
+            "lname": "Bey",
+            "suffix": ""
+        },
+        "url": "/players/b/beysa01.html"
+    },
+    "Tyler Bey": {
+        "bio": {
+            "fname": "Tyler",
+            "lname": "Bey",
+            "suffix": ""
+        },
+        "url": "/players/b/beyty01.html"
+    },
+    "Khem Birch": {
+        "bio": {
+            "fname": "Khem",
+            "lname": "Birch",
+            "suffix": ""
+        },
+        "url": "/players/b/birchkh01.html"
+    },
+    "Goga Bitadze": {
+        "bio": {
+            "fname": "Goga",
+            "lname": "Bitadze",
+            "suffix": ""
+        },
+        "url": "/players/b/bitadgo01.html"
+    },
+    "Bismack Biyombo": {
+        "bio": {
+            "fname": "Bismack",
+            "lname": "Biyombo",
+            "suffix": ""
+        },
+        "url": "/players/b/biyombi01.html"
+    },
+    "Buddy Boeheim": {
+        "bio": {
+            "fname": "Buddy",
+            "lname": "Boeheim",
+            "suffix": ""
+        },
+        "url": "/players/b/boehebu01.html"
+    },
+    "Bogdan Bogdanovi\u0107": {
+        "bio": {
+            "fname": "Bogdan",
+            "lname": "Bogdanovi\u0107",
+            "suffix": ""
+        },
+        "url": "/players/b/bogdabo01.html"
+    },
+    "Bojan Bogdanovi\u0107": {
+        "bio": {
+            "fname": "Bojan",
+            "lname": "Bogdanovi\u0107",
+            "suffix": ""
+        },
+        "url": "/players/b/bogdabo02.html"
+    },
+    "Bol Bol": {
+        "bio": {
+            "fname": "Bol",
+            "lname": "Bol",
+            "suffix": ""
+        },
+        "url": "/players/b/bolbo01.html"
+    },
+    "Marques Bolden": {
+        "bio": {
+            "fname": "Marques",
+            "lname": "Bolden",
+            "suffix": ""
+        },
+        "url": "/players/b/boldema01.html"
+    },
+    "Leandro Bolmaro": {
+        "bio": {
+            "fname": "Leandro",
+            "lname": "Bolmaro",
+            "suffix": ""
+        },
+        "url": "/players/b/bolmale01.html"
+    },
+    "Jordan Bone": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Bone",
+            "suffix": ""
+        },
+        "url": "/players/b/bonejo01.html"
+    },
+    "Devin Booker": {
+        "bio": {
+            "fname": "Devin",
+            "lname": "Booker",
+            "suffix": ""
+        },
+        "url": "/players/b/bookede01.html"
+    },
+    "Brandon Boston Jr.": {
+        "bio": {
+            "fname": "Brandon",
+            "lname": "Boston",
+            "suffix": "Jr."
+        },
+        "url": "/players/b/bostobr01.html"
+    },
+    "Chris Boucher": {
+        "bio": {
+            "fname": "Chris",
+            "lname": "Boucher",
+            "suffix": ""
+        },
+        "url": "/players/b/bouchch01.html"
+    },
+    "James Bouknight": {
+        "bio": {
+            "fname": "James",
+            "lname": "Bouknight",
+            "suffix": ""
+        },
+        "url": "/players/b/bouknja01.html"
+    },
+    "Jamaree Bouyea": {
+        "bio": {
+            "fname": "Jamaree",
+            "lname": "Bouyea",
+            "suffix": ""
+        },
+        "url": "/players/b/bouyeja01.html"
+    },
+    "Ky Bowman": {
+        "bio": {
+            "fname": "Ky",
+            "lname": "Bowman",
+            "suffix": ""
+        },
+        "url": "/players/b/bowmaky01.html"
+    },
+    "Tony Bradley": {
+        "bio": {
+            "fname": "Tony",
+            "lname": "Bradley",
+            "suffix": ""
+        },
+        "url": "/players/b/bradlto01.html"
+    },
+    "Malaki Branham": {
+        "bio": {
+            "fname": "Malaki",
+            "lname": "Branham",
+            "suffix": ""
+        },
+        "url": "/players/b/branhma01.html"
+    },
+    "Jarrell Brantley": {
+        "bio": {
+            "fname": "Jarrell",
+            "lname": "Brantley",
+            "suffix": ""
+        },
+        "url": "/players/b/brantja01.html"
+    },
+    "Christian Braun": {
+        "bio": {
+            "fname": "Christian",
+            "lname": "Braun",
+            "suffix": ""
+        },
+        "url": "/players/b/braunch01.html"
+    },
+    "Ignas Brazdeikis": {
+        "bio": {
+            "fname": "Ignas",
+            "lname": "Brazdeikis",
+            "suffix": ""
+        },
+        "url": "/players/b/brazdig01.html"
+    },
+    "Mikal Bridges": {
+        "bio": {
+            "fname": "Mikal",
+            "lname": "Bridges",
+            "suffix": ""
+        },
+        "url": "/players/b/bridgmi01.html"
+    },
+    "Miles Bridges": {
+        "bio": {
+            "fname": "Miles",
+            "lname": "Bridges",
+            "suffix": ""
+        },
+        "url": "/players/b/bridgmi02.html"
+    },
+    "Oshae Brissett": {
+        "bio": {
+            "fname": "Oshae",
+            "lname": "Brissett",
+            "suffix": ""
+        },
+        "url": "/players/b/brissos01.html"
+    },
+    "Malcolm Brogdon": {
+        "bio": {
+            "fname": "Malcolm",
+            "lname": "Brogdon",
+            "suffix": ""
+        },
+        "url": "/players/b/brogdma01.html"
+    },
+    "Armoni Brooks": {
+        "bio": {
+            "fname": "Armoni",
+            "lname": "Brooks",
+            "suffix": ""
+        },
+        "url": "/players/b/brookar01.html"
+    },
+    "Dillon Brooks": {
+        "bio": {
+            "fname": "Dillon",
+            "lname": "Brooks",
+            "suffix": ""
+        },
+        "url": "/players/b/brookdi01.html"
+    },
+    "Bruce Brown": {
+        "bio": {
+            "fname": "Bruce",
+            "lname": "Brown",
+            "suffix": ""
+        },
+        "url": "/players/b/brownbr01.html"
+    },
+    "Charlie Brown Jr.": {
+        "bio": {
+            "fname": "Charlie",
+            "lname": "Brown",
+            "suffix": "Jr."
+        },
+        "url": "/players/b/brownch02.html"
+    },
+    "Chaundee Brown Jr.": {
+        "bio": {
+            "fname": "Chaundee",
+            "lname": "Brown",
+            "suffix": "Jr."
+        },
+        "url": "/players/b/brownch05.html"
+    },
+    "Greg Brown III": {
+        "bio": {
+            "fname": "Greg",
+            "lname": "Brown",
+            "suffix": "III"
+        },
+        "url": "/players/b/browngr01.html"
+    },
+    "Jaylen Brown": {
+        "bio": {
+            "fname": "Jaylen",
+            "lname": "Brown",
+            "suffix": ""
+        },
+        "url": "/players/b/brownja02.html"
+    },
+    "Kendall Brown": {
+        "bio": {
+            "fname": "Kendall",
+            "lname": "Brown",
+            "suffix": ""
+        },
+        "url": "/players/b/brownke03.html"
+    },
+    "Moses Brown": {
+        "bio": {
+            "fname": "Moses",
+            "lname": "Brown",
+            "suffix": ""
+        },
+        "url": "/players/b/brownmo01.html"
+    },
+    "Sterling Brown": {
+        "bio": {
+            "fname": "Sterling",
+            "lname": "Brown",
+            "suffix": ""
+        },
+        "url": "/players/b/brownst02.html"
+    },
+    "Troy Brown Jr.": {
+        "bio": {
+            "fname": "Troy",
+            "lname": "Brown",
+            "suffix": "Jr."
+        },
+        "url": "/players/b/browntr01.html"
+    },
+    "Jalen Brunson": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Brunson",
+            "suffix": ""
+        },
+        "url": "/players/b/brunsja01.html"
+    },
+    "Thomas Bryant": {
+        "bio": {
+            "fname": "Thomas",
+            "lname": "Bryant",
+            "suffix": ""
+        },
+        "url": "/players/b/bryanth01.html"
+    },
+    "Shaq Buchanan": {
+        "bio": {
+            "fname": "Shaq",
+            "lname": "Buchanan",
+            "suffix": ""
+        },
+        "url": "/players/b/buchash01.html"
+    },
+    "Reggie Bullock": {
+        "bio": {
+            "fname": "Reggie",
+            "lname": "Bullock",
+            "suffix": ""
+        },
+        "url": "/players/b/bullore01.html"
+    },
+    "Trey Burke": {
+        "bio": {
+            "fname": "Trey",
+            "lname": "Burke",
+            "suffix": ""
+        },
+        "url": "/players/b/burketr01.html"
+    },
+    "Alec Burks": {
+        "bio": {
+            "fname": "Alec",
+            "lname": "Burks",
+            "suffix": ""
+        },
+        "url": "/players/b/burksal01.html"
+    },
+    "Deonte Burton": {
+        "bio": {
+            "fname": "Deonte",
+            "lname": "Burton",
+            "suffix": ""
+        },
+        "url": "/players/b/burtode02.html"
+    },
+    "Jared Butler": {
+        "bio": {
+            "fname": "Jared",
+            "lname": "Butler",
+            "suffix": ""
+        },
+        "url": "/players/b/butleja02.html"
+    },
+    "Jimmy Butler": {
+        "bio": {
+            "fname": "Jimmy",
+            "lname": "Butler",
+            "suffix": ""
+        },
+        "url": "/players/b/butleji01.html"
+    },
+    "John Butler": {
+        "bio": {
+            "fname": "John",
+            "lname": "Butler",
+            "suffix": ""
+        },
+        "url": "/players/b/butlejo01.html"
+    },
+    "Bruno Caboclo": {
+        "bio": {
+            "fname": "Bruno",
+            "lname": "Caboclo",
+            "suffix": ""
+        },
+        "url": "/players/c/cabocbr01.html"
+    },
+    "Devontae Cacok": {
+        "bio": {
+            "fname": "Devontae",
+            "lname": "Cacok",
+            "suffix": ""
+        },
+        "url": "/players/c/cacokde01.html"
+    },
+    "Jamal Cain": {
+        "bio": {
+            "fname": "Jamal",
+            "lname": "Cain",
+            "suffix": ""
+        },
+        "url": "/players/c/cainja01.html"
+    },
+    "Kentavious Caldwell-Pope": {
+        "bio": {
+            "fname": "Kentavious",
+            "lname": "Caldwell-Pope",
+            "suffix": ""
+        },
+        "url": "/players/c/caldwke01.html"
+    },
+    "Facundo Campazzo": {
+        "bio": {
+            "fname": "Facundo",
+            "lname": "Campazzo",
+            "suffix": ""
+        },
+        "url": "/players/c/campafa01.html"
+    },
+    "Devin Cannady": {
+        "bio": {
+            "fname": "Devin",
+            "lname": "Cannady",
+            "suffix": ""
+        },
+        "url": "/players/c/cannade01.html"
+    },
+    "Clint Capela": {
+        "bio": {
+            "fname": "Clint",
+            "lname": "Capela",
+            "suffix": ""
+        },
+        "url": "/players/c/capelca01.html"
+    },
+    "Vernon Carey Jr.": {
+        "bio": {
+            "fname": "Vernon",
+            "lname": "Carey",
+            "suffix": "Jr."
+        },
+        "url": "/players/c/careyve01.html"
+    },
+    "Jevon Carter": {
+        "bio": {
+            "fname": "Jevon",
+            "lname": "Carter",
+            "suffix": ""
+        },
+        "url": "/players/c/carteje01.html"
+    },
+    "Wendell Carter Jr.": {
+        "bio": {
+            "fname": "Wendell",
+            "lname": "Carter",
+            "suffix": "Jr."
+        },
+        "url": "/players/c/cartewe01.html"
+    },
+    "Michael Carter-Williams": {
+        "bio": {
+            "fname": "Michael",
+            "lname": "Carter-Williams",
+            "suffix": ""
+        },
+        "url": "/players/c/cartemi01.html"
+    },
+    "Alex Caruso": {
+        "bio": {
+            "fname": "Alex",
+            "lname": "Caruso",
+            "suffix": ""
+        },
+        "url": "/players/c/carusal01.html"
+    },
+    "Willie Cauley-Stein": {
+        "bio": {
+            "fname": "Willie",
+            "lname": "Cauley-Stein",
+            "suffix": ""
+        },
+        "url": "/players/c/caulewi01.html"
+    },
+    "Ahmad Caver": {
+        "bio": {
+            "fname": "Ahmad",
+            "lname": "Caver",
+            "suffix": ""
+        },
+        "url": "/players/c/caverah01.html"
+    },
+    "Julian Champagnie": {
+        "bio": {
+            "fname": "Julian",
+            "lname": "Champagnie",
+            "suffix": ""
+        },
+        "url": "/players/c/champju02.html"
+    },
+    "Justin Champagnie": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "Champagnie",
+            "suffix": ""
+        },
+        "url": "/players/c/champju01.html"
+    },
+    "Kennedy Chandler": {
+        "bio": {
+            "fname": "Kennedy",
+            "lname": "Chandler",
+            "suffix": ""
+        },
+        "url": "/players/c/chandke01.html"
+    },
+    "Zylan Cheatham": {
+        "bio": {
+            "fname": "Zylan",
+            "lname": "Cheatham",
+            "suffix": ""
+        },
+        "url": "/players/c/cheatzy01.html"
+    },
+    "Chris Chiozza": {
+        "bio": {
+            "fname": "Chris",
+            "lname": "Chiozza",
+            "suffix": ""
+        },
+        "url": "/players/c/chiozch01.html"
+    },
+    "Marquese Chriss": {
+        "bio": {
+            "fname": "Marquese",
+            "lname": "Chriss",
+            "suffix": ""
+        },
+        "url": "/players/c/chrisma01.html"
+    },
+    "Max Christie": {
+        "bio": {
+            "fname": "Max",
+            "lname": "Christie",
+            "suffix": ""
+        },
+        "url": "/players/c/chrisma02.html"
+    },
+    "Josh Christopher": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Christopher",
+            "suffix": ""
+        },
+        "url": "/players/c/chrisjo01.html"
+    },
+    "Gary Clark": {
+        "bio": {
+            "fname": "Gary",
+            "lname": "Clark",
+            "suffix": ""
+        },
+        "url": "/players/c/clarkga01.html"
+    },
+    "Brandon Clarke": {
+        "bio": {
+            "fname": "Brandon",
+            "lname": "Clarke",
+            "suffix": ""
+        },
+        "url": "/players/c/clarkbr01.html"
+    },
+    "Jordan Clarkson": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Clarkson",
+            "suffix": ""
+        },
+        "url": "/players/c/clarkjo01.html"
+    },
+    "Nic Claxton": {
+        "bio": {
+            "fname": "Nic",
+            "lname": "Claxton",
+            "suffix": ""
+        },
+        "url": "/players/c/claxtni01.html"
+    },
+    "Chris Clemons": {
+        "bio": {
+            "fname": "Chris",
+            "lname": "Clemons",
+            "suffix": ""
+        },
+        "url": "/players/c/clemoch01.html"
+    },
+    "Amir Coffey": {
+        "bio": {
+            "fname": "Amir",
+            "lname": "Coffey",
+            "suffix": ""
+        },
+        "url": "/players/c/coffeam01.html"
+    },
+    "John Collins": {
+        "bio": {
+            "fname": "John",
+            "lname": "Collins",
+            "suffix": ""
+        },
+        "url": "/players/c/collijo01.html"
+    },
+    "Zach Collins": {
+        "bio": {
+            "fname": "Zach",
+            "lname": "Collins",
+            "suffix": ""
+        },
+        "url": "/players/c/colliza01.html"
+    },
+    "Chance Comanche": {
+        "bio": {
+            "fname": "Chance",
+            "lname": "Comanche",
+            "suffix": ""
+        },
+        "url": "/players/c/comanch01.html"
+    },
+    "Mike Conley": {
+        "bio": {
+            "fname": "Mike",
+            "lname": "Conley",
+            "suffix": ""
+        },
+        "url": "/players/c/conlemi01.html"
+    },
+    "Pat Connaughton": {
+        "bio": {
+            "fname": "Pat",
+            "lname": "Connaughton",
+            "suffix": ""
+        },
+        "url": "/players/c/connapa01.html"
+    },
+    "Tyler Cook": {
+        "bio": {
+            "fname": "Tyler",
+            "lname": "Cook",
+            "suffix": ""
+        },
+        "url": "/players/c/cookty01.html"
+    },
+    "Xavier Cooks": {
+        "bio": {
+            "fname": "Xavier",
+            "lname": "Cooks",
+            "suffix": ""
+        },
+        "url": "/players/c/cooksxa01.html"
+    },
+    "Sharife Cooper": {
+        "bio": {
+            "fname": "Sharife",
+            "lname": "Cooper",
+            "suffix": ""
+        },
+        "url": "/players/c/coopesh01.html"
+    },
+    "DeMarcus Cousins": {
+        "bio": {
+            "fname": "DeMarcus",
+            "lname": "Cousins",
+            "suffix": ""
+        },
+        "url": "/players/c/couside01.html"
+    },
+    "Robert Covington": {
+        "bio": {
+            "fname": "Robert",
+            "lname": "Covington",
+            "suffix": ""
+        },
+        "url": "/players/c/covinro01.html"
+    },
+    "Allen Crabbe": {
+        "bio": {
+            "fname": "Allen",
+            "lname": "Crabbe",
+            "suffix": ""
+        },
+        "url": "/players/c/crabbal01.html"
+    },
+    "Torrey Craig": {
+        "bio": {
+            "fname": "Torrey",
+            "lname": "Craig",
+            "suffix": ""
+        },
+        "url": "/players/c/craigto01.html"
+    },
+    "Jae Crowder": {
+        "bio": {
+            "fname": "Jae",
+            "lname": "Crowder",
+            "suffix": ""
+        },
+        "url": "/players/c/crowdja01.html"
+    },
+    "Jarrett Culver": {
+        "bio": {
+            "fname": "Jarrett",
+            "lname": "Culver",
+            "suffix": ""
+        },
+        "url": "/players/c/culveja01.html"
+    },
+    "Cade Cunningham": {
+        "bio": {
+            "fname": "Cade",
+            "lname": "Cunningham",
+            "suffix": ""
+        },
+        "url": "/players/c/cunnica01.html"
+    },
+    "Seth Curry": {
+        "bio": {
+            "fname": "Seth",
+            "lname": "Curry",
+            "suffix": ""
+        },
+        "url": "/players/c/curryse01.html"
+    },
+    "Stephen Curry": {
+        "bio": {
+            "fname": "Stephen",
+            "lname": "Curry",
+            "suffix": ""
+        },
+        "url": "/players/c/curryst01.html"
+    },
+    "Dyson Daniels": {
+        "bio": {
+            "fname": "Dyson",
+            "lname": "Daniels",
+            "suffix": ""
+        },
+        "url": "/players/d/daniedy01.html"
+    },
+    "Nate Darling": {
+        "bio": {
+            "fname": "Nate",
+            "lname": "Darling",
+            "suffix": ""
+        },
+        "url": "/players/d/darlina01.html"
+    },
+    "Anthony Davis": {
+        "bio": {
+            "fname": "Anthony",
+            "lname": "Davis",
+            "suffix": ""
+        },
+        "url": "/players/d/davisan02.html"
+    },
+    "Johnny Davis": {
+        "bio": {
+            "fname": "Johnny",
+            "lname": "Davis",
+            "suffix": ""
+        },
+        "url": "/players/d/davisjo06.html"
+    },
+    "Terence Davis": {
+        "bio": {
+            "fname": "Terence",
+            "lname": "Davis",
+            "suffix": ""
+        },
+        "url": "/players/d/daviste02.html"
+    },
+    "JD Davison": {
+        "bio": {
+            "fname": "JD",
+            "lname": "Davison",
+            "suffix": ""
+        },
+        "url": "/players/d/davisjd01.html"
+    },
+    "Darius Days": {
+        "bio": {
+            "fname": "Darius",
+            "lname": "Days",
+            "suffix": ""
+        },
+        "url": "/players/d/daysda01.html"
+    },
+    "DeMar DeRozan": {
+        "bio": {
+            "fname": "DeMar",
+            "lname": "DeRozan",
+            "suffix": ""
+        },
+        "url": "/players/d/derozde01.html"
+    },
+    "Dewayne Dedmon": {
+        "bio": {
+            "fname": "Dewayne",
+            "lname": "Dedmon",
+            "suffix": ""
+        },
+        "url": "/players/d/dedmode01.html"
+    },
+    "Matthew Dellavedova": {
+        "bio": {
+            "fname": "Matthew",
+            "lname": "Dellavedova",
+            "suffix": ""
+        },
+        "url": "/players/d/dellama01.html"
+    },
+    "Donte DiVincenzo": {
+        "bio": {
+            "fname": "Donte",
+            "lname": "DiVincenzo",
+            "suffix": ""
+        },
+        "url": "/players/d/divindo01.html"
+    },
+    "Moussa Diabat\u00e9": {
+        "bio": {
+            "fname": "Moussa",
+            "lname": "Diabat\u00e9",
+            "suffix": ""
+        },
+        "url": "/players/d/diabamo01.html"
+    },
+    "Mamadi Diakite": {
+        "bio": {
+            "fname": "Mamadi",
+            "lname": "Diakite",
+            "suffix": ""
+        },
+        "url": "/players/d/diakima01.html"
+    },
+    "Hamidou Diallo": {
+        "bio": {
+            "fname": "Hamidou",
+            "lname": "Diallo",
+            "suffix": ""
+        },
+        "url": "/players/d/diallha01.html"
+    },
+    "Gorgui Dieng": {
+        "bio": {
+            "fname": "Gorgui",
+            "lname": "Dieng",
+            "suffix": ""
+        },
+        "url": "/players/d/dienggo01.html"
+    },
+    "Ousmane Dieng": {
+        "bio": {
+            "fname": "Ousmane",
+            "lname": "Dieng",
+            "suffix": ""
+        },
+        "url": "/players/d/diengou01.html"
+    },
+    "Spencer Dinwiddie": {
+        "bio": {
+            "fname": "Spencer",
+            "lname": "Dinwiddie",
+            "suffix": ""
+        },
+        "url": "/players/d/dinwisp01.html"
+    },
+    "Luka Don\u010di\u0107": {
+        "bio": {
+            "fname": "Luka",
+            "lname": "Don\u010di\u0107",
+            "suffix": ""
+        },
+        "url": "/players/d/doncilu01.html"
+    },
+    "Tyler Dorsey": {
+        "bio": {
+            "fname": "Tyler",
+            "lname": "Dorsey",
+            "suffix": ""
+        },
+        "url": "/players/d/dorsety01.html"
+    },
+    "Luguentz Dort": {
+        "bio": {
+            "fname": "Luguentz",
+            "lname": "Dort",
+            "suffix": ""
+        },
+        "url": "/players/d/dortlu01.html"
+    },
+    "Ayo Dosunmu": {
+        "bio": {
+            "fname": "Ayo",
+            "lname": "Dosunmu",
+            "suffix": ""
+        },
+        "url": "/players/d/dosunay01.html"
+    },
+    "Devon Dotson": {
+        "bio": {
+            "fname": "Devon",
+            "lname": "Dotson",
+            "suffix": ""
+        },
+        "url": "/players/d/dotsode01.html"
+    },
+    "Sekou Doumbouya": {
+        "bio": {
+            "fname": "Sekou",
+            "lname": "Doumbouya",
+            "suffix": ""
+        },
+        "url": "/players/d/doumbse01.html"
+    },
+    "Jeff Dowtin": {
+        "bio": {
+            "fname": "Jeff",
+            "lname": "Dowtin",
+            "suffix": ""
+        },
+        "url": "/players/d/dowtije01.html"
+    },
+    "PJ Dozier": {
+        "bio": {
+            "fname": "PJ",
+            "lname": "Dozier",
+            "suffix": ""
+        },
+        "url": "/players/d/doziepj01.html"
+    },
+    "Goran Dragi\u0107": {
+        "bio": {
+            "fname": "Goran",
+            "lname": "Dragi\u0107",
+            "suffix": ""
+        },
+        "url": "/players/d/dragigo01.html"
+    },
+    "Andre Drummond": {
+        "bio": {
+            "fname": "Andre",
+            "lname": "Drummond",
+            "suffix": ""
+        },
+        "url": "/players/d/drumman01.html"
+    },
+    "Chris Duarte": {
+        "bio": {
+            "fname": "Chris",
+            "lname": "Duarte",
+            "suffix": ""
+        },
+        "url": "/players/d/duartch01.html"
+    },
+    "David Duke Jr.": {
+        "bio": {
+            "fname": "David",
+            "lname": "Duke",
+            "suffix": "Jr."
+        },
+        "url": "/players/d/dukeda01.html"
+    },
+    "Kris Dunn": {
+        "bio": {
+            "fname": "Kris",
+            "lname": "Dunn",
+            "suffix": ""
+        },
+        "url": "/players/d/dunnkr01.html"
+    },
+    "Kevin Durant": {
+        "bio": {
+            "fname": "Kevin",
+            "lname": "Durant",
+            "suffix": ""
+        },
+        "url": "/players/d/duranke01.html"
+    },
+    "Jalen Duren": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Duren",
+            "suffix": ""
+        },
+        "url": "/players/d/durenja01.html"
+    },
+    "Trevon Duval": {
+        "bio": {
+            "fname": "Trevon",
+            "lname": "Duval",
+            "suffix": ""
+        },
+        "url": "/players/d/duvaltr01.html"
+    },
+    "Tari Eason": {
+        "bio": {
+            "fname": "Tari",
+            "lname": "Eason",
+            "suffix": ""
+        },
+        "url": "/players/e/easonta01.html"
+    },
+    "Jaime Echenique": {
+        "bio": {
+            "fname": "Jaime",
+            "lname": "Echenique",
+            "suffix": ""
+        },
+        "url": "/players/e/echenja01.html"
+    },
+    "Anthony Edwards": {
+        "bio": {
+            "fname": "Anthony",
+            "lname": "Edwards",
+            "suffix": ""
+        },
+        "url": "/players/e/edwaran01.html"
+    },
+    "Carsen Edwards": {
+        "bio": {
+            "fname": "Carsen",
+            "lname": "Edwards",
+            "suffix": ""
+        },
+        "url": "/players/e/edwarca01.html"
+    },
+    "Kessler Edwards": {
+        "bio": {
+            "fname": "Kessler",
+            "lname": "Edwards",
+            "suffix": ""
+        },
+        "url": "/players/e/edwarke02.html"
+    },
+    "Rob Edwards": {
+        "bio": {
+            "fname": "Rob",
+            "lname": "Edwards",
+            "suffix": ""
+        },
+        "url": "/players/e/edwarro01.html"
+    },
+    "Vince Edwards": {
+        "bio": {
+            "fname": "Vince",
+            "lname": "Edwards",
+            "suffix": ""
+        },
+        "url": "/players/e/edwarvi01.html"
+    },
+    "CJ Elleby": {
+        "bio": {
+            "fname": "CJ",
+            "lname": "Elleby",
+            "suffix": ""
+        },
+        "url": "/players/e/ellebcj01.html"
+    },
+    "Keon Ellis": {
+        "bio": {
+            "fname": "Keon",
+            "lname": "Ellis",
+            "suffix": ""
+        },
+        "url": "/players/e/elliske01.html"
+    },
+    "Joel Embiid": {
+        "bio": {
+            "fname": "Joel",
+            "lname": "Embiid",
+            "suffix": ""
+        },
+        "url": "/players/e/embiijo01.html"
+    },
+    "Drew Eubanks": {
+        "bio": {
+            "fname": "Drew",
+            "lname": "Eubanks",
+            "suffix": ""
+        },
+        "url": "/players/e/eubandr01.html"
+    },
+    "Jacob Evans": {
+        "bio": {
+            "fname": "Jacob",
+            "lname": "Evans",
+            "suffix": ""
+        },
+        "url": "/players/e/evansja02.html"
+    },
+    "Kenneth Faried": {
+        "bio": {
+            "fname": "Kenneth",
+            "lname": "Faried",
+            "suffix": ""
+        },
+        "url": "/players/f/farieke01.html"
+    },
+    "Derrick Favors": {
+        "bio": {
+            "fname": "Derrick",
+            "lname": "Favors",
+            "suffix": ""
+        },
+        "url": "/players/f/favorde01.html"
+    },
+    "Bruno Fernando": {
+        "bio": {
+            "fname": "Bruno",
+            "lname": "Fernando",
+            "suffix": ""
+        },
+        "url": "/players/f/fernabr01.html"
+    },
+    "Dorian Finney-Smith": {
+        "bio": {
+            "fname": "Dorian",
+            "lname": "Finney-Smith",
+            "suffix": ""
+        },
+        "url": "/players/f/finnedo01.html"
+    },
+    "Malik Fitts": {
+        "bio": {
+            "fname": "Malik",
+            "lname": "Fitts",
+            "suffix": ""
+        },
+        "url": "/players/f/fittsma01.html"
+    },
+    "Malachi Flynn": {
+        "bio": {
+            "fname": "Malachi",
+            "lname": "Flynn",
+            "suffix": ""
+        },
+        "url": "/players/f/flynnma01.html"
+    },
+    "Simone Fontecchio": {
+        "bio": {
+            "fname": "Simone",
+            "lname": "Fontecchio",
+            "suffix": ""
+        },
+        "url": "/players/f/fontesi01.html"
+    },
+    "Bryn Forbes": {
+        "bio": {
+            "fname": "Bryn",
+            "lname": "Forbes",
+            "suffix": ""
+        },
+        "url": "/players/f/forbebr01.html"
+    },
+    "Aleem Ford": {
+        "bio": {
+            "fname": "Aleem",
+            "lname": "Ford",
+            "suffix": ""
+        },
+        "url": "/players/f/fordal03.html"
+    },
+    "Trent Forrest": {
+        "bio": {
+            "fname": "Trent",
+            "lname": "Forrest",
+            "suffix": ""
+        },
+        "url": "/players/f/forretr01.html"
+    },
+    "Michael Foster Jr.": {
+        "bio": {
+            "fname": "Michael",
+            "lname": "Foster",
+            "suffix": "Jr."
+        },
+        "url": "/players/f/fostemi02.html"
+    },
+    "Evan Fournier": {
+        "bio": {
+            "fname": "Evan",
+            "lname": "Fournier",
+            "suffix": ""
+        },
+        "url": "/players/f/fournev01.html"
+    },
+    "De'Aaron Fox": {
+        "bio": {
+            "fname": "De'Aaron",
+            "lname": "Fox",
+            "suffix": ""
+        },
+        "url": "/players/f/foxde01.html"
+    },
+    "Melvin Frazier": {
+        "bio": {
+            "fname": "Melvin",
+            "lname": "Frazier",
+            "suffix": ""
+        },
+        "url": "/players/f/frazime01.html"
+    },
+    "Markelle Fultz": {
+        "bio": {
+            "fname": "Markelle",
+            "lname": "Fultz",
+            "suffix": ""
+        },
+        "url": "/players/f/fultzma01.html"
+    },
+    "Wenyen Gabriel": {
+        "bio": {
+            "fname": "Wenyen",
+            "lname": "Gabriel",
+            "suffix": ""
+        },
+        "url": "/players/g/gabriwe01.html"
+    },
+    "Daniel Gafford": {
+        "bio": {
+            "fname": "Daniel",
+            "lname": "Gafford",
+            "suffix": ""
+        },
+        "url": "/players/g/gaffoda01.html"
+    },
+    "Danilo Gallinari": {
+        "bio": {
+            "fname": "Danilo",
+            "lname": "Gallinari",
+            "suffix": ""
+        },
+        "url": "/players/g/gallida01.html"
+    },
+    "Langston Galloway": {
+        "bio": {
+            "fname": "Langston",
+            "lname": "Galloway",
+            "suffix": ""
+        },
+        "url": "/players/g/gallola01.html"
+    },
+    "Darius Garland": {
+        "bio": {
+            "fname": "Darius",
+            "lname": "Garland",
+            "suffix": ""
+        },
+        "url": "/players/g/garlada01.html"
+    },
+    "Marcus Garrett": {
+        "bio": {
+            "fname": "Marcus",
+            "lname": "Garrett",
+            "suffix": ""
+        },
+        "url": "/players/g/garrema01.html"
+    },
+    "Usman Garuba": {
+        "bio": {
+            "fname": "Usman",
+            "lname": "Garuba",
+            "suffix": ""
+        },
+        "url": "/players/g/garubus01.html"
+    },
+    "Luka Garza": {
+        "bio": {
+            "fname": "Luka",
+            "lname": "Garza",
+            "suffix": ""
+        },
+        "url": "/players/g/garzalu01.html"
+    },
+    "Rudy Gay": {
+        "bio": {
+            "fname": "Rudy",
+            "lname": "Gay",
+            "suffix": ""
+        },
+        "url": "/players/g/gayru01.html"
+    },
+    "Paul George": {
+        "bio": {
+            "fname": "Paul",
+            "lname": "George",
+            "suffix": ""
+        },
+        "url": "/players/g/georgpa01.html"
+    },
+    "Taj Gibson": {
+        "bio": {
+            "fname": "Taj",
+            "lname": "Gibson",
+            "suffix": ""
+        },
+        "url": "/players/g/gibsota01.html"
+    },
+    "Josh Giddey": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Giddey",
+            "suffix": ""
+        },
+        "url": "/players/g/giddejo01.html"
+    },
+    "Shai Gilgeous-Alexander": {
+        "bio": {
+            "fname": "Shai",
+            "lname": "Gilgeous-Alexander",
+            "suffix": ""
+        },
+        "url": "/players/g/gilgesh01.html"
+    },
+    "Anthony Gill": {
+        "bio": {
+            "fname": "Anthony",
+            "lname": "Gill",
+            "suffix": ""
+        },
+        "url": "/players/g/gillan01.html"
+    },
+    "Jacob Gilyard": {
+        "bio": {
+            "fname": "Jacob",
+            "lname": "Gilyard",
+            "suffix": ""
+        },
+        "url": "/players/g/gilyaja01.html"
+    },
+    "Rudy Gobert": {
+        "bio": {
+            "fname": "Rudy",
+            "lname": "Gobert",
+            "suffix": ""
+        },
+        "url": "/players/g/goberru01.html"
+    },
+    "Brandon Goodwin": {
+        "bio": {
+            "fname": "Brandon",
+            "lname": "Goodwin",
+            "suffix": ""
+        },
+        "url": "/players/g/goodwbr01.html"
+    },
+    "Jordan Goodwin": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Goodwin",
+            "suffix": ""
+        },
+        "url": "/players/g/goodwjo01.html"
+    },
+    "Aaron Gordon": {
+        "bio": {
+            "fname": "Aaron",
+            "lname": "Gordon",
+            "suffix": ""
+        },
+        "url": "/players/g/gordoaa01.html"
+    },
+    "Eric Gordon": {
+        "bio": {
+            "fname": "Eric",
+            "lname": "Gordon",
+            "suffix": ""
+        },
+        "url": "/players/g/gordoer01.html"
+    },
+    "Devonte' Graham": {
+        "bio": {
+            "fname": "Devonte'",
+            "lname": "Graham",
+            "suffix": ""
+        },
+        "url": "/players/g/grahade01.html"
+    },
+    "Treveon Graham": {
+        "bio": {
+            "fname": "Treveon",
+            "lname": "Graham",
+            "suffix": ""
+        },
+        "url": "/players/g/grahatr01.html"
+    },
+    "Jerami Grant": {
+        "bio": {
+            "fname": "Jerami",
+            "lname": "Grant",
+            "suffix": ""
+        },
+        "url": "/players/g/grantje01.html"
+    },
+    "Hassani Gravett": {
+        "bio": {
+            "fname": "Hassani",
+            "lname": "Gravett",
+            "suffix": ""
+        },
+        "url": "/players/g/graveha01.html"
+    },
+    "RaiQuan Gray": {
+        "bio": {
+            "fname": "RaiQuan",
+            "lname": "Gray",
+            "suffix": ""
+        },
+        "url": "/players/g/grayra01.html"
+    },
+    "A.J. Green": {
+        "bio": {
+            "fname": "A.J.",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greenaj01.html"
+    },
+    "Danny Green": {
+        "bio": {
+            "fname": "Danny",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greenda02.html"
+    },
+    "Draymond Green": {
+        "bio": {
+            "fname": "Draymond",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greendr01.html"
+    },
+    "JaMychal Green": {
+        "bio": {
+            "fname": "JaMychal",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greenja01.html"
+    },
+    "Jalen Green": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greenja05.html"
+    },
+    "Javonte Green": {
+        "bio": {
+            "fname": "Javonte",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greenja02.html"
+    },
+    "Jeff Green": {
+        "bio": {
+            "fname": "Jeff",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greenje02.html"
+    },
+    "Josh Green": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Green",
+            "suffix": ""
+        },
+        "url": "/players/g/greenjo02.html"
+    },
+    "AJ Griffin": {
+        "bio": {
+            "fname": "AJ",
+            "lname": "Griffin",
+            "suffix": ""
+        },
+        "url": "/players/g/griffaj01.html"
+    },
+    "Blake Griffin": {
+        "bio": {
+            "fname": "Blake",
+            "lname": "Griffin",
+            "suffix": ""
+        },
+        "url": "/players/g/griffbl01.html"
+    },
+    "Quentin Grimes": {
+        "bio": {
+            "fname": "Quentin",
+            "lname": "Grimes",
+            "suffix": ""
+        },
+        "url": "/players/g/grimequ01.html"
+    },
+    "Kyle Guy": {
+        "bio": {
+            "fname": "Kyle",
+            "lname": "Guy",
+            "suffix": ""
+        },
+        "url": "/players/g/guyky01.html"
+    },
+    "Rui Hachimura": {
+        "bio": {
+            "fname": "Rui",
+            "lname": "Hachimura",
+            "suffix": ""
+        },
+        "url": "/players/h/hachiru01.html"
+    },
+    "Ashton Hagans": {
+        "bio": {
+            "fname": "Ashton",
+            "lname": "Hagans",
+            "suffix": ""
+        },
+        "url": "/players/h/haganas01.html"
+    },
+    "Tyrese Haliburton": {
+        "bio": {
+            "fname": "Tyrese",
+            "lname": "Haliburton",
+            "suffix": ""
+        },
+        "url": "/players/h/halibty01.html"
+    },
+    "Devon Hall": {
+        "bio": {
+            "fname": "Devon",
+            "lname": "Hall",
+            "suffix": ""
+        },
+        "url": "/players/h/hallde01.html"
+    },
+    "Jordan Hall": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Hall",
+            "suffix": ""
+        },
+        "url": "/players/h/halljo02.html"
+    },
+    "Josh Hall": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Hall",
+            "suffix": ""
+        },
+        "url": "/players/h/halljo01.html"
+    },
+    "Tyler Hall": {
+        "bio": {
+            "fname": "Tyler",
+            "lname": "Hall",
+            "suffix": ""
+        },
+        "url": "/players/h/hallty01.html"
+    },
+    "R.J. Hampton": {
+        "bio": {
+            "fname": "R.J.",
+            "lname": "Hampton",
+            "suffix": ""
+        },
+        "url": "/players/h/hamptrj01.html"
+    },
+    "Dusty Hannahs": {
+        "bio": {
+            "fname": "Dusty",
+            "lname": "Hannahs",
+            "suffix": ""
+        },
+        "url": "/players/h/hannadu01.html"
+    },
+    "Tim Hardaway Jr.": {
+        "bio": {
+            "fname": "Tim",
+            "lname": "Hardaway",
+            "suffix": "Jr."
+        },
+        "url": "/players/h/hardati02.html"
+    },
+    "James Harden": {
+        "bio": {
+            "fname": "James",
+            "lname": "Harden",
+            "suffix": ""
+        },
+        "url": "/players/h/hardeja01.html"
+    },
+    "Jaden Hardy": {
+        "bio": {
+            "fname": "Jaden",
+            "lname": "Hardy",
+            "suffix": ""
+        },
+        "url": "/players/h/hardyja02.html"
+    },
+    "Maurice Harkless": {
+        "bio": {
+            "fname": "Maurice",
+            "lname": "Harkless",
+            "suffix": ""
+        },
+        "url": "/players/h/harklma01.html"
+    },
+    "Ron Harper Jr.": {
+        "bio": {
+            "fname": "Ron",
+            "lname": "Harper",
+            "suffix": "Jr."
+        },
+        "url": "/players/h/harpero02.html"
+    },
+    "Montrezl Harrell": {
+        "bio": {
+            "fname": "Montrezl",
+            "lname": "Harrell",
+            "suffix": ""
+        },
+        "url": "/players/h/harremo01.html"
+    },
+    "Gary Harris": {
+        "bio": {
+            "fname": "Gary",
+            "lname": "Harris",
+            "suffix": ""
+        },
+        "url": "/players/h/harriga01.html"
+    },
+    "Jalen Harris": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Harris",
+            "suffix": ""
+        },
+        "url": "/players/h/harrija01.html"
+    },
+    "Joe Harris": {
+        "bio": {
+            "fname": "Joe",
+            "lname": "Harris",
+            "suffix": ""
+        },
+        "url": "/players/h/harrijo01.html"
+    },
+    "Kevon Harris": {
+        "bio": {
+            "fname": "Kevon",
+            "lname": "Harris",
+            "suffix": ""
+        },
+        "url": "/players/h/harrike01.html"
+    },
+    "Tobias Harris": {
+        "bio": {
+            "fname": "Tobias",
+            "lname": "Harris",
+            "suffix": ""
+        },
+        "url": "/players/h/harrito02.html"
+    },
+    "Shaquille Harrison": {
+        "bio": {
+            "fname": "Shaquille",
+            "lname": "Harrison",
+            "suffix": ""
+        },
+        "url": "/players/h/harrish01.html"
+    },
+    "Josh Hart": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Hart",
+            "suffix": ""
+        },
+        "url": "/players/h/hartjo01.html"
+    },
+    "Isaiah Hartenstein": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Hartenstein",
+            "suffix": ""
+        },
+        "url": "/players/h/harteis01.html"
+    },
+    "Udonis Haslem": {
+        "bio": {
+            "fname": "Udonis",
+            "lname": "Haslem",
+            "suffix": ""
+        },
+        "url": "/players/h/hasleud01.html"
+    },
+    "Sam Hauser": {
+        "bio": {
+            "fname": "Sam",
+            "lname": "Hauser",
+            "suffix": ""
+        },
+        "url": "/players/h/hausesa01.html"
+    },
+    "Jaxson Hayes": {
+        "bio": {
+            "fname": "Jaxson",
+            "lname": "Hayes",
+            "suffix": ""
+        },
+        "url": "/players/h/hayesja02.html"
+    },
+    "Killian Hayes": {
+        "bio": {
+            "fname": "Killian",
+            "lname": "Hayes",
+            "suffix": ""
+        },
+        "url": "/players/h/hayeski01.html"
+    },
+    "Gordon Hayward": {
+        "bio": {
+            "fname": "Gordon",
+            "lname": "Hayward",
+            "suffix": ""
+        },
+        "url": "/players/h/haywago01.html"
+    },
+    "Dewan Hernandez": {
+        "bio": {
+            "fname": "Dewan",
+            "lname": "Hernandez",
+            "suffix": ""
+        },
+        "url": "/players/h/hernade01.html"
+    },
+    "Juancho Hernang\u00f3mez": {
+        "bio": {
+            "fname": "Juancho",
+            "lname": "Hernang\u00f3mez",
+            "suffix": ""
+        },
+        "url": "/players/h/hernaju01.html"
+    },
+    "Willy Hernang\u00f3mez": {
+        "bio": {
+            "fname": "Willy",
+            "lname": "Hernang\u00f3mez",
+            "suffix": ""
+        },
+        "url": "/players/h/hernawi01.html"
+    },
+    "Tyler Herro": {
+        "bio": {
+            "fname": "Tyler",
+            "lname": "Herro",
+            "suffix": ""
+        },
+        "url": "/players/h/herroty01.html"
+    },
+    "Kevin Hervey": {
+        "bio": {
+            "fname": "Kevin",
+            "lname": "Hervey",
+            "suffix": ""
+        },
+        "url": "/players/h/herveke01.html"
+    },
+    "Buddy Hield": {
+        "bio": {
+            "fname": "Buddy",
+            "lname": "Hield",
+            "suffix": ""
+        },
+        "url": "/players/h/hieldbu01.html"
+    },
+    "Haywood Highsmith": {
+        "bio": {
+            "fname": "Haywood",
+            "lname": "Highsmith",
+            "suffix": ""
+        },
+        "url": "/players/h/highsha01.html"
+    },
+    "George Hill": {
+        "bio": {
+            "fname": "George",
+            "lname": "Hill",
+            "suffix": ""
+        },
+        "url": "/players/h/hillge01.html"
+    },
+    "Malcolm Hill": {
+        "bio": {
+            "fname": "Malcolm",
+            "lname": "Hill",
+            "suffix": ""
+        },
+        "url": "/players/h/hillma01.html"
+    },
+    "Nate Hinton": {
+        "bio": {
+            "fname": "Nate",
+            "lname": "Hinton",
+            "suffix": ""
+        },
+        "url": "/players/h/hintona01.html"
+    },
+    "Aaron Holiday": {
+        "bio": {
+            "fname": "Aaron",
+            "lname": "Holiday",
+            "suffix": ""
+        },
+        "url": "/players/h/holidaa01.html"
+    },
+    "Jrue Holiday": {
+        "bio": {
+            "fname": "Jrue",
+            "lname": "Holiday",
+            "suffix": ""
+        },
+        "url": "/players/h/holidjr01.html"
+    },
+    "Justin Holiday": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "Holiday",
+            "suffix": ""
+        },
+        "url": "/players/h/holidju01.html"
+    },
+    "Richaun Holmes": {
+        "bio": {
+            "fname": "Richaun",
+            "lname": "Holmes",
+            "suffix": ""
+        },
+        "url": "/players/h/holmeri01.html"
+    },
+    "Chet Holmgren": {
+        "bio": {
+            "experience": 0,
+            "fname": "Chet",
+            "lname": "Holmgren"
+        },
+        "url": "/players/h/holmgch01.html"
+    },
+    "Scotty Hopson": {
+        "bio": {
+            "fname": "Scotty",
+            "lname": "Hopson",
+            "suffix": ""
+        },
+        "url": "/players/h/hopsosc01.html"
+    },
+    "Al Horford": {
+        "bio": {
+            "fname": "Al",
+            "lname": "Horford",
+            "suffix": ""
+        },
+        "url": "/players/h/horfoal01.html"
+    },
+    "Talen Horton-Tucker": {
+        "bio": {
+            "fname": "Talen",
+            "lname": "Horton-Tucker",
+            "suffix": ""
+        },
+        "url": "/players/h/hortota01.html"
+    },
+    "Danuel House Jr.": {
+        "bio": {
+            "fname": "Danuel",
+            "lname": "House",
+            "suffix": "Jr."
+        },
+        "url": "/players/h/houseda01.html"
+    },
+    "Caleb Houstan": {
+        "bio": {
+            "fname": "Caleb",
+            "lname": "Houstan",
+            "suffix": ""
+        },
+        "url": "/players/h/houstca01.html"
+    },
+    "Trevor Hudgins": {
+        "bio": {
+            "fname": "Trevor",
+            "lname": "Hudgins",
+            "suffix": ""
+        },
+        "url": "/players/h/hudgitr01.html"
+    },
+    "Kevin Huerter": {
+        "bio": {
+            "fname": "Kevin",
+            "lname": "Huerter",
+            "suffix": ""
+        },
+        "url": "/players/h/huertke01.html"
+    },
+    "Jay Huff": {
+        "bio": {
+            "fname": "Jay",
+            "lname": "Huff",
+            "suffix": ""
+        },
+        "url": "/players/h/huffja01.html"
+    },
+    "Elijah Hughes": {
+        "bio": {
+            "fname": "Elijah",
+            "lname": "Hughes",
+            "suffix": ""
+        },
+        "url": "/players/h/hugheel01.html"
+    },
+    "Feron Hunt": {
+        "bio": {
+            "fname": "Feron",
+            "lname": "Hunt",
+            "suffix": ""
+        },
+        "url": "/players/h/huntfe01.html"
+    },
+    "De'Andre Hunter": {
+        "bio": {
+            "fname": "De'Andre",
+            "lname": "Hunter",
+            "suffix": ""
+        },
+        "url": "/players/h/huntede01.html"
+    },
+    "Chandler Hutchison": {
+        "bio": {
+            "fname": "Chandler",
+            "lname": "Hutchison",
+            "suffix": ""
+        },
+        "url": "/players/h/hutchch01.html"
+    },
+    "Bones Hyland": {
+        "bio": {
+            "fname": "Bones",
+            "lname": "Hyland",
+            "suffix": ""
+        },
+        "url": "/players/h/hylanbo01.html"
+    },
+    "Serge Ibaka": {
+        "bio": {
+            "fname": "Serge",
+            "lname": "Ibaka",
+            "suffix": ""
+        },
+        "url": "/players/i/ibakase01.html"
+    },
+    "Andre Iguodala": {
+        "bio": {
+            "fname": "Andre",
+            "lname": "Iguodala",
+            "suffix": ""
+        },
+        "url": "/players/i/iguodan01.html"
+    },
+    "Joe Ingles": {
+        "bio": {
+            "fname": "Joe",
+            "lname": "Ingles",
+            "suffix": ""
+        },
+        "url": "/players/i/inglejo01.html"
+    },
+    "Brandon Ingram": {
+        "bio": {
+            "fname": "Brandon",
+            "lname": "Ingram",
+            "suffix": ""
+        },
+        "url": "/players/i/ingrabr01.html"
+    },
+    "Kyrie Irving": {
+        "bio": {
+            "fname": "Kyrie",
+            "lname": "Irving",
+            "suffix": ""
+        },
+        "url": "/players/i/irvinky01.html"
+    },
+    "Jonathan Isaac": {
+        "bio": {
+            "fname": "Jonathan",
+            "lname": "Isaac",
+            "suffix": ""
+        },
+        "url": "/players/i/isaacjo01.html"
+    },
+    "Jaden Ivey": {
+        "bio": {
+            "fname": "Jaden",
+            "lname": "Ivey",
+            "suffix": ""
+        },
+        "url": "/players/i/iveyja01.html"
+    },
+    "Wes Iwundu": {
+        "bio": {
+            "fname": "Wes",
+            "lname": "Iwundu",
+            "suffix": ""
+        },
+        "url": "/players/i/iwundwe01.html"
+    },
+    "Frank Jackson": {
+        "bio": {
+            "fname": "Frank",
+            "lname": "Jackson",
+            "suffix": ""
+        },
+        "url": "/players/j/jacksfr01.html"
+    },
+    "Isaiah Jackson": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Jackson",
+            "suffix": ""
+        },
+        "url": "/players/j/jacksis01.html"
+    },
+    "Jaren Jackson Jr.": {
+        "bio": {
+            "fname": "Jaren",
+            "lname": "Jackson",
+            "suffix": "Jr."
+        },
+        "url": "/players/j/jacksja02.html"
+    },
+    "Josh Jackson": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Jackson",
+            "suffix": ""
+        },
+        "url": "/players/j/jacksjo02.html"
+    },
+    "Justin Jackson": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "Jackson",
+            "suffix": ""
+        },
+        "url": "/players/j/jacksju01.html"
+    },
+    "Quenton Jackson": {
+        "bio": {
+            "fname": "Quenton",
+            "lname": "Jackson",
+            "suffix": ""
+        },
+        "url": "/players/j/jacksqu01.html"
+    },
+    "Reggie Jackson": {
+        "bio": {
+            "fname": "Reggie",
+            "lname": "Jackson",
+            "suffix": ""
+        },
+        "url": "/players/j/jacksre01.html"
+    },
+    "Justin James": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "James",
+            "suffix": ""
+        },
+        "url": "/players/j/jamesju01.html"
+    },
+    "LeBron James": {
+        "bio": {
+            "fname": "LeBron",
+            "lname": "James",
+            "suffix": ""
+        },
+        "url": "/players/j/jamesle01.html"
+    },
+    "DaQuan Jeffries": {
+        "bio": {
+            "fname": "DaQuan",
+            "lname": "Jeffries",
+            "suffix": ""
+        },
+        "url": "/players/j/jeffrda01.html"
+    },
+    "John Jenkins": {
+        "bio": {
+            "fname": "John",
+            "lname": "Jenkins",
+            "suffix": ""
+        },
+        "url": "/players/j/jenkijo01.html"
+    },
+    "Ty Jerome": {
+        "bio": {
+            "fname": "Ty",
+            "lname": "Jerome",
+            "suffix": ""
+        },
+        "url": "/players/j/jeromty01.html"
+    },
+    "Isaiah Joe": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Joe",
+            "suffix": ""
+        },
+        "url": "/players/j/joeis01.html"
+    },
+    "Alize Johnson": {
+        "bio": {
+            "fname": "Alize",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnsal02.html"
+    },
+    "Cameron Johnson": {
+        "bio": {
+            "fname": "Cameron",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnsca02.html"
+    },
+    "David Johnson": {
+        "bio": {
+            "fname": "David",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnsda08.html"
+    },
+    "Jalen Johnson": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnsja05.html"
+    },
+    "James Johnson": {
+        "bio": {
+            "fname": "James",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnsja01.html"
+    },
+    "Keldon Johnson": {
+        "bio": {
+            "fname": "Keldon",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnske04.html"
+    },
+    "Keon Johnson": {
+        "bio": {
+            "fname": "Keon",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnske07.html"
+    },
+    "Stanley Johnson": {
+        "bio": {
+            "fname": "Stanley",
+            "lname": "Johnson",
+            "suffix": ""
+        },
+        "url": "/players/j/johnsst04.html"
+    },
+    "Nikola Joki\u0107": {
+        "bio": {
+            "fname": "Nikola",
+            "lname": "Joki\u0107",
+            "suffix": ""
+        },
+        "url": "/players/j/jokicni01.html"
+    },
+    "Carlik Jones": {
+        "bio": {
+            "fname": "Carlik",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/jonesca03.html"
+    },
+    "Damian Jones": {
+        "bio": {
+            "fname": "Damian",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/jonesda03.html"
+    },
+    "Derrick Jones Jr.": {
+        "bio": {
+            "fname": "Derrick",
+            "lname": "Jones",
+            "suffix": "Jr."
+        },
+        "url": "/players/j/jonesde02.html"
+    },
+    "Herbert Jones": {
+        "bio": {
+            "fname": "Herbert",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/joneshe01.html"
+    },
+    "Jemerrio Jones": {
+        "bio": {
+            "fname": "Jemerrio",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/jonesje01.html"
+    },
+    "Kai Jones": {
+        "bio": {
+            "fname": "Kai",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/joneska01.html"
+    },
+    "Mason Jones": {
+        "bio": {
+            "fname": "Mason",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/jonesma05.html"
+    },
+    "Tre Jones": {
+        "bio": {
+            "fname": "Tre",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/jonestr01.html"
+    },
+    "Tyus Jones": {
+        "bio": {
+            "fname": "Tyus",
+            "lname": "Jones",
+            "suffix": ""
+        },
+        "url": "/players/j/jonesty01.html"
+    },
+    "DeAndre Jordan": {
+        "bio": {
+            "fname": "DeAndre",
+            "lname": "Jordan",
+            "suffix": ""
+        },
+        "url": "/players/j/jordade01.html"
+    },
+    "Cory Joseph": {
+        "bio": {
+            "fname": "Cory",
+            "lname": "Joseph",
+            "suffix": ""
+        },
+        "url": "/players/j/josepco01.html"
+    },
+    "Nikola Jovi\u0107": {
+        "bio": {
+            "fname": "Nikola",
+            "lname": "Jovi\u0107",
+            "suffix": ""
+        },
+        "url": "/players/j/jovicni01.html"
+    },
+    "Johnny Juzang": {
+        "bio": {
+            "fname": "Johnny",
+            "lname": "Juzang",
+            "suffix": ""
+        },
+        "url": "/players/j/juzanjo01.html"
+    },
+    "Mfiondu Kabengele": {
+        "bio": {
+            "fname": "Mfiondu",
+            "lname": "Kabengele",
+            "suffix": ""
+        },
+        "url": "/players/k/kabenmf01.html"
+    },
+    "Frank Kaminsky": {
+        "bio": {
+            "fname": "Frank",
+            "lname": "Kaminsky",
+            "suffix": ""
+        },
+        "url": "/players/k/kaminfr01.html"
+    },
+    "Trevor Keels": {
+        "bio": {
+            "fname": "Trevor",
+            "lname": "Keels",
+            "suffix": ""
+        },
+        "url": "/players/k/keelstr01.html"
+    },
+    "Luke Kennard": {
+        "bio": {
+            "fname": "Luke",
+            "lname": "Kennard",
+            "suffix": ""
+        },
+        "url": "/players/k/kennalu01.html"
+    },
+    "Walker Kessler": {
+        "bio": {
+            "fname": "Walker",
+            "lname": "Kessler",
+            "suffix": ""
+        },
+        "url": "/players/k/kesslwa01.html"
+    },
+    "Braxton Key": {
+        "bio": {
+            "fname": "Braxton",
+            "lname": "Key",
+            "suffix": ""
+        },
+        "url": "/players/k/keybr01.html"
+    },
+    "George King": {
+        "bio": {
+            "fname": "George",
+            "lname": "King",
+            "suffix": ""
+        },
+        "url": "/players/k/kingge03.html"
+    },
+    "Louis King": {
+        "bio": {
+            "fname": "Louis",
+            "lname": "King",
+            "suffix": ""
+        },
+        "url": "/players/k/kinglo02.html"
+    },
+    "Corey Kispert": {
+        "bio": {
+            "fname": "Corey",
+            "lname": "Kispert",
+            "suffix": ""
+        },
+        "url": "/players/k/kispeco01.html"
+    },
+    "Maxi Kleber": {
+        "bio": {
+            "fname": "Maxi",
+            "lname": "Kleber",
+            "suffix": ""
+        },
+        "url": "/players/k/klebima01.html"
+    },
+    "Nathan Knight": {
+        "bio": {
+            "fname": "Nathan",
+            "lname": "Knight",
+            "suffix": ""
+        },
+        "url": "/players/k/knighna01.html"
+    },
+    "Kevin Knox": {
+        "bio": {
+            "fname": "Kevin",
+            "lname": "Knox",
+            "suffix": ""
+        },
+        "url": "/players/k/knoxke01.html"
+    },
+    "Christian Koloko": {
+        "bio": {
+            "fname": "Christian",
+            "lname": "Koloko",
+            "suffix": ""
+        },
+        "url": "/players/k/kolokch01.html"
+    },
+    "John Konchar": {
+        "bio": {
+            "fname": "John",
+            "lname": "Konchar",
+            "suffix": ""
+        },
+        "url": "/players/k/konchjo01.html"
+    },
+    "Furkan Korkmaz": {
+        "bio": {
+            "fname": "Furkan",
+            "lname": "Korkmaz",
+            "suffix": ""
+        },
+        "url": "/players/k/korkmfu01.html"
+    },
+    "Luke Kornet": {
+        "bio": {
+            "fname": "Luke",
+            "lname": "Kornet",
+            "suffix": ""
+        },
+        "url": "/players/k/kornelu01.html"
+    },
+    "Vit Krejci": {
+        "bio": {
+            "fname": "Vit",
+            "lname": "Krejci",
+            "suffix": ""
+        },
+        "url": "/players/k/krejcvi01.html"
+    },
+    "Jonathan Kuminga": {
+        "bio": {
+            "fname": "Jonathan",
+            "lname": "Kuminga",
+            "suffix": ""
+        },
+        "url": "/players/k/kuminjo01.html"
+    },
+    "Kyle Kuzma": {
+        "bio": {
+            "fname": "Kyle",
+            "lname": "Kuzma",
+            "suffix": ""
+        },
+        "url": "/players/k/kuzmaky01.html"
+    },
+    "Jake LaRavia": {
+        "bio": {
+            "fname": "Jake",
+            "lname": "LaRavia",
+            "suffix": ""
+        },
+        "url": "/players/l/laravja01.html"
+    },
+    "Zach LaVine": {
+        "bio": {
+            "fname": "Zach",
+            "lname": "LaVine",
+            "suffix": ""
+        },
+        "url": "/players/l/lavinza01.html"
+    },
+    "Anthony Lamb": {
+        "bio": {
+            "fname": "Anthony",
+            "lname": "Lamb",
+            "suffix": ""
+        },
+        "url": "/players/l/lamban01.html"
+    },
+    "Jock Landale": {
+        "bio": {
+            "fname": "Jock",
+            "lname": "Landale",
+            "suffix": ""
+        },
+        "url": "/players/l/landajo01.html"
+    },
+    "Romeo Langford": {
+        "bio": {
+            "fname": "Romeo",
+            "lname": "Langford",
+            "suffix": ""
+        },
+        "url": "/players/l/langfro01.html"
+    },
+    "A.J. Lawson": {
+        "bio": {
+            "fname": "A.J.",
+            "lname": "Lawson",
+            "suffix": ""
+        },
+        "url": "/players/l/lawsoaj01.html"
+    },
+    "Jake Layman": {
+        "bio": {
+            "fname": "Jake",
+            "lname": "Layman",
+            "suffix": ""
+        },
+        "url": "/players/l/laymaja01.html"
+    },
+    "Caris LeVert": {
+        "bio": {
+            "fname": "Caris",
+            "lname": "LeVert",
+            "suffix": ""
+        },
+        "url": "/players/l/leverca01.html"
+    },
+    "Jalen Lecque": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Lecque",
+            "suffix": ""
+        },
+        "url": "/players/l/lecquja01.html"
+    },
+    "Damion Lee": {
+        "bio": {
+            "fname": "Damion",
+            "lname": "Lee",
+            "suffix": ""
+        },
+        "url": "/players/l/leeda03.html"
+    },
+    "Saben Lee": {
+        "bio": {
+            "fname": "Saben",
+            "lname": "Lee",
+            "suffix": ""
+        },
+        "url": "/players/l/leesa01.html"
+    },
+    "Alex Len": {
+        "bio": {
+            "fname": "Alex",
+            "lname": "Len",
+            "suffix": ""
+        },
+        "url": "/players/l/lenal01.html"
+    },
+    "Kawhi Leonard": {
+        "bio": {
+            "fname": "Kawhi",
+            "lname": "Leonard",
+            "suffix": ""
+        },
+        "url": "/players/l/leonaka01.html"
+    },
+    "Meyers Leonard": {
+        "bio": {
+            "fname": "Meyers",
+            "lname": "Leonard",
+            "suffix": ""
+        },
+        "url": "/players/l/leoname01.html"
+    },
+    "Kira Lewis Jr.": {
+        "bio": {
+            "fname": "Kira",
+            "lname": "Lewis",
+            "suffix": "Jr."
+        },
+        "url": "/players/l/lewiski01.html"
+    },
+    "Damian Lillard": {
+        "bio": {
+            "fname": "Damian",
+            "lname": "Lillard",
+            "suffix": ""
+        },
+        "url": "/players/l/lillada01.html"
+    },
+    "Nassir Little": {
+        "bio": {
+            "fname": "Nassir",
+            "lname": "Little",
+            "suffix": ""
+        },
+        "url": "/players/l/littlna01.html"
+    },
+    "Isaiah Livers": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Livers",
+            "suffix": ""
+        },
+        "url": "/players/l/liveris01.html"
+    },
+    "Kenneth Lofton Jr.": {
+        "bio": {
+            "fname": "Kenneth",
+            "lname": "Lofton",
+            "suffix": "Jr."
+        },
+        "url": "/players/l/loftoke01.html"
+    },
+    "Kevon Looney": {
+        "bio": {
+            "fname": "Kevon",
+            "lname": "Looney",
+            "suffix": ""
+        },
+        "url": "/players/l/looneke01.html"
+    },
+    "Brook Lopez": {
+        "bio": {
+            "fname": "Brook",
+            "lname": "Lopez",
+            "suffix": ""
+        },
+        "url": "/players/l/lopezbr01.html"
+    },
+    "Robin Lopez": {
+        "bio": {
+            "fname": "Robin",
+            "lname": "Lopez",
+            "suffix": ""
+        },
+        "url": "/players/l/lopezro01.html"
+    },
+    "Didi Louzada": {
+        "bio": {
+            "fname": "Didi",
+            "lname": "Louzada",
+            "suffix": ""
+        },
+        "url": "/players/l/louzama01.html"
+    },
+    "Kevin Love": {
+        "bio": {
+            "fname": "Kevin",
+            "lname": "Love",
+            "suffix": ""
+        },
+        "url": "/players/l/loveke01.html"
+    },
+    "Kyle Lowry": {
+        "bio": {
+            "fname": "Kyle",
+            "lname": "Lowry",
+            "suffix": ""
+        },
+        "url": "/players/l/lowryky01.html"
+    },
+    "Timoth\u00e9 Luwawu-Cabarrot": {
+        "bio": {
+            "fname": "Timoth\u00e9",
+            "lname": "Luwawu-Cabarrot",
+            "suffix": ""
+        },
+        "url": "/players/l/luwawti01.html"
+    },
+    "Trey Lyles": {
+        "bio": {
+            "fname": "Trey",
+            "lname": "Lyles",
+            "suffix": ""
+        },
+        "url": "/players/l/lylestr01.html"
+    },
+    "Th\u00e9o Maledon": {
+        "bio": {
+            "fname": "Th\u00e9o",
+            "lname": "Maledon",
+            "suffix": ""
+        },
+        "url": "/players/m/maledth01.html"
+    },
+    "Sandro Mamukelashvili": {
+        "bio": {
+            "fname": "Sandro",
+            "lname": "Mamukelashvili",
+            "suffix": ""
+        },
+        "url": "/players/m/mamuksa01.html"
+    },
+    "Terance Mann": {
+        "bio": {
+            "fname": "Terance",
+            "lname": "Mann",
+            "suffix": ""
+        },
+        "url": "/players/m/mannte01.html"
+    },
+    "Tre Mann": {
+        "bio": {
+            "fname": "Tre",
+            "lname": "Mann",
+            "suffix": ""
+        },
+        "url": "/players/m/manntr01.html"
+    },
+    "Nico Mannion": {
+        "bio": {
+            "fname": "Nico",
+            "lname": "Mannion",
+            "suffix": ""
+        },
+        "url": "/players/m/mannini01.html"
+    },
+    "Karim Man\u00e9": {
+        "bio": {
+            "fname": "Karim",
+            "lname": "Man\u00e9",
+            "suffix": ""
+        },
+        "url": "/players/m/maneka01.html"
+    },
+    "Boban Marjanovi\u0107": {
+        "bio": {
+            "fname": "Boban",
+            "lname": "Marjanovi\u0107",
+            "suffix": ""
+        },
+        "url": "/players/m/marjabo01.html"
+    },
+    "Lauri Markkanen": {
+        "bio": {
+            "fname": "Lauri",
+            "lname": "Markkanen",
+            "suffix": ""
+        },
+        "url": "/players/m/markkla01.html"
+    },
+    "Naji Marshall": {
+        "bio": {
+            "fname": "Naji",
+            "lname": "Marshall",
+            "suffix": ""
+        },
+        "url": "/players/m/marshna01.html"
+    },
+    "Caleb Martin": {
+        "bio": {
+            "fname": "Caleb",
+            "lname": "Martin",
+            "suffix": ""
+        },
+        "url": "/players/m/martica02.html"
+    },
+    "Cody Martin": {
+        "bio": {
+            "fname": "Cody",
+            "lname": "Martin",
+            "suffix": ""
+        },
+        "url": "/players/m/martico01.html"
+    },
+    "Kelan Martin": {
+        "bio": {
+            "fname": "Kelan",
+            "lname": "Martin",
+            "suffix": ""
+        },
+        "url": "/players/m/martike03.html"
+    },
+    "Kenyon Martin Jr.": {
+        "bio": {
+            "fname": "Kenyon",
+            "lname": "Martin",
+            "suffix": "Jr."
+        },
+        "url": "/players/m/martike04.html"
+    },
+    "Tyrese Martin": {
+        "bio": {
+            "fname": "Tyrese",
+            "lname": "Martin",
+            "suffix": ""
+        },
+        "url": "/players/m/martity01.html"
+    },
+    "Garrison Mathews": {
+        "bio": {
+            "fname": "Garrison",
+            "lname": "Mathews",
+            "suffix": ""
+        },
+        "url": "/players/m/mathega01.html"
+    },
+    "Dakota Mathias": {
+        "bio": {
+            "fname": "Dakota",
+            "lname": "Mathias",
+            "suffix": ""
+        },
+        "url": "/players/m/mathida01.html"
+    },
+    "Bennedict Mathurin": {
+        "bio": {
+            "fname": "Bennedict",
+            "lname": "Mathurin",
+            "suffix": ""
+        },
+        "url": "/players/m/mathube01.html"
+    },
+    "Wesley Matthews": {
+        "bio": {
+            "fname": "Wesley",
+            "lname": "Matthews",
+            "suffix": ""
+        },
+        "url": "/players/m/matthwe02.html"
+    },
+    "Tyrese Maxey": {
+        "bio": {
+            "fname": "Tyrese",
+            "lname": "Maxey",
+            "suffix": ""
+        },
+        "url": "/players/m/maxeyty01.html"
+    },
+    "Skylar Mays": {
+        "bio": {
+            "fname": "Skylar",
+            "lname": "Mays",
+            "suffix": ""
+        },
+        "url": "/players/m/mayssk01.html"
+    },
+    "Miles McBride": {
+        "bio": {
+            "fname": "Miles",
+            "lname": "McBride",
+            "suffix": ""
+        },
+        "url": "/players/m/mcbrimi01.html"
+    },
+    "Patrick McCaw": {
+        "bio": {
+            "fname": "Patrick",
+            "lname": "McCaw",
+            "suffix": ""
+        },
+        "url": "/players/m/mccawpa01.html"
+    },
+    "Mac McClung": {
+        "bio": {
+            "fname": "Mac",
+            "lname": "McClung",
+            "suffix": ""
+        },
+        "url": "/players/m/mccluma01.html"
+    },
+    "CJ McCollum": {
+        "bio": {
+            "fname": "CJ",
+            "lname": "McCollum",
+            "suffix": ""
+        },
+        "url": "/players/m/mccolcj01.html"
+    },
+    "T.J. McConnell": {
+        "bio": {
+            "fname": "T.J.",
+            "lname": "McConnell",
+            "suffix": ""
+        },
+        "url": "/players/m/mccontj01.html"
+    },
+    "Jaden McDaniels": {
+        "bio": {
+            "fname": "Jaden",
+            "lname": "McDaniels",
+            "suffix": ""
+        },
+        "url": "/players/m/mcdanja02.html"
+    },
+    "Jalen McDaniels": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "McDaniels",
+            "suffix": ""
+        },
+        "url": "/players/m/mcdanja01.html"
+    },
+    "Doug McDermott": {
+        "bio": {
+            "fname": "Doug",
+            "lname": "McDermott",
+            "suffix": ""
+        },
+        "url": "/players/m/mcderdo01.html"
+    },
+    "Sean McDermott": {
+        "bio": {
+            "fname": "Sean",
+            "lname": "McDermott",
+            "suffix": ""
+        },
+        "url": "/players/m/mcderse01.html"
+    },
+    "JaVale McGee": {
+        "bio": {
+            "fname": "JaVale",
+            "lname": "McGee",
+            "suffix": ""
+        },
+        "url": "/players/m/mcgeeja01.html"
+    },
+    "Bryce McGowens": {
+        "bio": {
+            "fname": "Bryce",
+            "lname": "McGowens",
+            "suffix": ""
+        },
+        "url": "/players/m/mcgowbr01.html"
+    },
+    "Rodney McGruder": {
+        "bio": {
+            "fname": "Rodney",
+            "lname": "McGruder",
+            "suffix": ""
+        },
+        "url": "/players/m/mcgruro01.html"
+    },
+    "Alfonzo McKinnie": {
+        "bio": {
+            "fname": "Alfonzo",
+            "lname": "McKinnie",
+            "suffix": ""
+        },
+        "url": "/players/m/mckinal01.html"
+    },
+    "JaQuori McLaughlin": {
+        "bio": {
+            "fname": "JaQuori",
+            "lname": "McLaughlin",
+            "suffix": ""
+        },
+        "url": "/players/m/mclauja01.html"
+    },
+    "Jordan McLaughlin": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "McLaughlin",
+            "suffix": ""
+        },
+        "url": "/players/m/mclaujo01.html"
+    },
+    "De'Anthony Melton": {
+        "bio": {
+            "fname": "De'Anthony",
+            "lname": "Melton",
+            "suffix": ""
+        },
+        "url": "/players/m/meltode01.html"
+    },
+    "Sam Merrill": {
+        "bio": {
+            "fname": "Sam",
+            "lname": "Merrill",
+            "suffix": ""
+        },
+        "url": "/players/m/merrisa01.html"
+    },
+    "Chimezie Metu": {
+        "bio": {
+            "fname": "Chimezie",
+            "lname": "Metu",
+            "suffix": ""
+        },
+        "url": "/players/m/metuch01.html"
+    },
+    "Khris Middleton": {
+        "bio": {
+            "fname": "Khris",
+            "lname": "Middleton",
+            "suffix": ""
+        },
+        "url": "/players/m/middlkh01.html"
+    },
+    "Eric Mika": {
+        "bio": {
+            "fname": "Eric",
+            "lname": "Mika",
+            "suffix": ""
+        },
+        "url": "/players/m/mikaer01.html"
+    },
+    "Malcolm Miller": {
+        "bio": {
+            "fname": "Malcolm",
+            "lname": "Miller",
+            "suffix": ""
+        },
+        "url": "/players/m/millema01.html"
+    },
+    "Patty Mills": {
+        "bio": {
+            "fname": "Patty",
+            "lname": "Mills",
+            "suffix": ""
+        },
+        "url": "/players/m/millspa02.html"
+    },
+    "Shake Milton": {
+        "bio": {
+            "fname": "Shake",
+            "lname": "Milton",
+            "suffix": ""
+        },
+        "url": "/players/m/miltosh01.html"
+    },
+    "Justin Minaya": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "Minaya",
+            "suffix": ""
+        },
+        "url": "/players/m/minayju01.html"
+    },
+    "Josh Minott": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Minott",
+            "suffix": ""
+        },
+        "url": "/players/m/minotjo01.html"
+    },
+    "Davion Mitchell": {
+        "bio": {
+            "fname": "Davion",
+            "lname": "Mitchell",
+            "suffix": ""
+        },
+        "url": "/players/m/mitchda01.html"
+    },
+    "Donovan Mitchell": {
+        "bio": {
+            "fname": "Donovan",
+            "lname": "Mitchell",
+            "suffix": ""
+        },
+        "url": "/players/m/mitchdo01.html"
+    },
+    "Evan Mobley": {
+        "bio": {
+            "fname": "Evan",
+            "lname": "Mobley",
+            "suffix": ""
+        },
+        "url": "/players/m/mobleev01.html"
+    },
+    "Isaiah Mobley": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Mobley",
+            "suffix": ""
+        },
+        "url": "/players/m/mobleis01.html"
+    },
+    "Adam Mokoka": {
+        "bio": {
+            "fname": "Adam",
+            "lname": "Mokoka",
+            "suffix": ""
+        },
+        "url": "/players/m/mokokad01.html"
+    },
+    "Chima Moneke": {
+        "bio": {
+            "fname": "Chima",
+            "lname": "Moneke",
+            "suffix": ""
+        },
+        "url": "/players/m/monekch01.html"
+    },
+    "Malik Monk": {
+        "bio": {
+            "fname": "Malik",
+            "lname": "Monk",
+            "suffix": ""
+        },
+        "url": "/players/m/monkma01.html"
+    },
+    "Moses Moody": {
+        "bio": {
+            "fname": "Moses",
+            "lname": "Moody",
+            "suffix": ""
+        },
+        "url": "/players/m/moodymo01.html"
+    },
+    "Xavier Moon": {
+        "bio": {
+            "fname": "Xavier",
+            "lname": "Moon",
+            "suffix": ""
+        },
+        "url": "/players/m/moonxa01.html"
+    },
+    "Wendell Moore Jr.": {
+        "bio": {
+            "fname": "Wendell",
+            "lname": "Moore",
+            "suffix": "Jr."
+        },
+        "url": "/players/m/moorewe01.html"
+    },
+    "Ja Morant": {
+        "bio": {
+            "fname": "Ja",
+            "lname": "Morant",
+            "suffix": ""
+        },
+        "url": "/players/m/moranja01.html"
+    },
+    "Juwan Morgan": {
+        "bio": {
+            "fname": "Juwan",
+            "lname": "Morgan",
+            "suffix": ""
+        },
+        "url": "/players/m/morgaju01.html"
+    },
+    "Marcus Morris": {
+        "bio": {
+            "fname": "Marcus",
+            "lname": "Morris",
+            "suffix": ""
+        },
+        "url": "/players/m/morrima03.html"
+    },
+    "Markieff Morris": {
+        "bio": {
+            "fname": "Markieff",
+            "lname": "Morris",
+            "suffix": ""
+        },
+        "url": "/players/m/morrima02.html"
+    },
+    "Monte Morris": {
+        "bio": {
+            "fname": "Monte",
+            "lname": "Morris",
+            "suffix": ""
+        },
+        "url": "/players/m/morrimo01.html"
+    },
+    "Emmanuel Mudiay": {
+        "bio": {
+            "fname": "Emmanuel",
+            "lname": "Mudiay",
+            "suffix": ""
+        },
+        "url": "/players/m/mudiaem01.html"
+    },
+    "Mychal Mulder": {
+        "bio": {
+            "fname": "Mychal",
+            "lname": "Mulder",
+            "suffix": ""
+        },
+        "url": "/players/m/muldemy01.html"
+    },
+    "Trey Murphy III": {
+        "bio": {
+            "fname": "Trey",
+            "lname": "Murphy",
+            "suffix": "III"
+        },
+        "url": "/players/m/murphtr02.html"
+    },
+    "Dejounte Murray": {
+        "bio": {
+            "fname": "Dejounte",
+            "lname": "Murray",
+            "suffix": ""
+        },
+        "url": "/players/m/murrade01.html"
+    },
+    "Jamal Murray": {
+        "bio": {
+            "fname": "Jamal",
+            "lname": "Murray",
+            "suffix": ""
+        },
+        "url": "/players/m/murraja01.html"
+    },
+    "Keegan Murray": {
+        "bio": {
+            "fname": "Keegan",
+            "lname": "Murray",
+            "suffix": ""
+        },
+        "url": "/players/m/murrake02.html"
+    },
+    "Mike Muscala": {
+        "bio": {
+            "fname": "Mike",
+            "lname": "Muscala",
+            "suffix": ""
+        },
+        "url": "/players/m/muscami01.html"
+    },
+    "Svi Mykhailiuk": {
+        "bio": {
+            "fname": "Svi",
+            "lname": "Mykhailiuk",
+            "suffix": ""
+        },
+        "url": "/players/m/mykhasv01.html"
+    },
+    "Larry Nance Jr.": {
+        "bio": {
+            "fname": "Larry",
+            "lname": "Nance",
+            "suffix": "Jr."
+        },
+        "url": "/players/n/nancela02.html"
+    },
+    "Shabazz Napier": {
+        "bio": {
+            "fname": "Shabazz",
+            "lname": "Napier",
+            "suffix": ""
+        },
+        "url": "/players/n/napiesh01.html"
+    },
+    "Andrew Nembhard": {
+        "bio": {
+            "fname": "Andrew",
+            "lname": "Nembhard",
+            "suffix": ""
+        },
+        "url": "/players/n/nembhan01.html"
+    },
+    "RJ Nembhard Jr.": {
+        "bio": {
+            "fname": "RJ",
+            "lname": "Nembhard",
+            "suffix": "Jr."
+        },
+        "url": "/players/n/nembhrj01.html"
+    },
+    "Aaron Nesmith": {
+        "bio": {
+            "fname": "Aaron",
+            "lname": "Nesmith",
+            "suffix": ""
+        },
+        "url": "/players/n/nesmiaa01.html"
+    },
+    "Raul Neto": {
+        "bio": {
+            "fname": "Raul",
+            "lname": "Neto",
+            "suffix": ""
+        },
+        "url": "/players/n/netora01.html"
+    },
+    "Georges Niang": {
+        "bio": {
+            "fname": "Georges",
+            "lname": "Niang",
+            "suffix": ""
+        },
+        "url": "/players/n/niangge01.html"
+    },
+    "Daishen Nix": {
+        "bio": {
+            "fname": "Daishen",
+            "lname": "Nix",
+            "suffix": ""
+        },
+        "url": "/players/n/nixda01.html"
+    },
+    "Zeke Nnaji": {
+        "bio": {
+            "fname": "Zeke",
+            "lname": "Nnaji",
+            "suffix": ""
+        },
+        "url": "/players/n/nnajize01.html"
+    },
+    "Nerlens Noel": {
+        "bio": {
+            "fname": "Nerlens",
+            "lname": "Noel",
+            "suffix": ""
+        },
+        "url": "/players/n/noelne01.html"
+    },
+    "Jaylen Nowell": {
+        "bio": {
+            "fname": "Jaylen",
+            "lname": "Nowell",
+            "suffix": ""
+        },
+        "url": "/players/n/nowelja01.html"
+    },
+    "Frank Ntilikina": {
+        "bio": {
+            "fname": "Frank",
+            "lname": "Ntilikina",
+            "suffix": ""
+        },
+        "url": "/players/n/ntilila01.html"
+    },
+    "Kendrick Nunn": {
+        "bio": {
+            "fname": "Kendrick",
+            "lname": "Nunn",
+            "suffix": ""
+        },
+        "url": "/players/n/nunnke01.html"
+    },
+    "Jusuf Nurki\u0107": {
+        "bio": {
+            "fname": "Jusuf",
+            "lname": "Nurki\u0107",
+            "suffix": ""
+        },
+        "url": "/players/n/nurkiju01.html"
+    },
+    "David Nwaba": {
+        "bio": {
+            "fname": "David",
+            "lname": "Nwaba",
+            "suffix": ""
+        },
+        "url": "/players/n/nwabada01.html"
+    },
+    "Jordan Nwora": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Nwora",
+            "suffix": ""
+        },
+        "url": "/players/n/nworajo01.html"
+    },
+    "Royce O'Neale": {
+        "bio": {
+            "fname": "Royce",
+            "lname": "O'Neale",
+            "suffix": ""
+        },
+        "url": "/players/o/onealro01.html"
+    },
+    "Jahlil Okafor": {
+        "bio": {
+            "fname": "Jahlil",
+            "lname": "Okafor",
+            "suffix": ""
+        },
+        "url": "/players/o/okafoja01.html"
+    },
+    "Chuma Okeke": {
+        "bio": {
+            "fname": "Chuma",
+            "lname": "Okeke",
+            "suffix": ""
+        },
+        "url": "/players/o/okekech01.html"
+    },
+    "Josh Okogie": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Okogie",
+            "suffix": ""
+        },
+        "url": "/players/o/okogijo01.html"
+    },
+    "Onyeka Okongwu": {
+        "bio": {
+            "fname": "Onyeka",
+            "lname": "Okongwu",
+            "suffix": ""
+        },
+        "url": "/players/o/okongon01.html"
+    },
+    "Isaac Okoro": {
+        "bio": {
+            "fname": "Isaac",
+            "lname": "Okoro",
+            "suffix": ""
+        },
+        "url": "/players/o/okorois01.html"
+    },
+    "KZ Okpala": {
+        "bio": {
+            "fname": "KZ",
+            "lname": "Okpala",
+            "suffix": ""
+        },
+        "url": "/players/o/okpalkz01.html"
+    },
+    "Victor Oladipo": {
+        "bio": {
+            "fname": "Victor",
+            "lname": "Oladipo",
+            "suffix": ""
+        },
+        "url": "/players/o/oladivi01.html"
+    },
+    "Cameron Oliver": {
+        "bio": {
+            "fname": "Cameron",
+            "lname": "Oliver",
+            "suffix": ""
+        },
+        "url": "/players/o/oliveca01.html"
+    },
+    "Kelly Olynyk": {
+        "bio": {
+            "fname": "Kelly",
+            "lname": "Olynyk",
+            "suffix": ""
+        },
+        "url": "/players/o/olynyke01.html"
+    },
+    "Eugene Omoruyi": {
+        "bio": {
+            "fname": "Eugene",
+            "lname": "Omoruyi",
+            "suffix": ""
+        },
+        "url": "/players/o/omorueu01.html"
+    },
+    "Miye Oni": {
+        "bio": {
+            "fname": "Miye",
+            "lname": "Oni",
+            "suffix": ""
+        },
+        "url": "/players/o/onimi01.html"
+    },
+    "Cedi Osman": {
+        "bio": {
+            "fname": "Cedi",
+            "lname": "Osman",
+            "suffix": ""
+        },
+        "url": "/players/o/osmande01.html"
+    },
+    "Daniel Oturu": {
+        "bio": {
+            "fname": "Daniel",
+            "lname": "Oturu",
+            "suffix": ""
+        },
+        "url": "/players/o/oturuda01.html"
+    },
+    "Kelly Oubre Jr.": {
+        "bio": {
+            "fname": "Kelly",
+            "lname": "Oubre",
+            "suffix": "Jr."
+        },
+        "url": "/players/o/oubreke01.html"
+    },
+    "Trayvon Palmer": {
+        "bio": {
+            "fname": "Trayvon",
+            "lname": "Palmer",
+            "suffix": ""
+        },
+        "url": "/players/p/palmetr01.html"
+    },
+    "Jeremy Pargo": {
+        "bio": {
+            "fname": "Jeremy",
+            "lname": "Pargo",
+            "suffix": ""
+        },
+        "url": "/players/p/pargoje01.html"
+    },
+    "Eric Paschall": {
+        "bio": {
+            "fname": "Eric",
+            "lname": "Paschall",
+            "suffix": ""
+        },
+        "url": "/players/p/pascher01.html"
+    },
+    "Chris Paul": {
+        "bio": {
+            "fname": "Chris",
+            "lname": "Paul",
+            "suffix": ""
+        },
+        "url": "/players/p/paulch01.html"
+    },
+    "Cameron Payne": {
+        "bio": {
+            "fname": "Cameron",
+            "lname": "Payne",
+            "suffix": ""
+        },
+        "url": "/players/p/payneca01.html"
+    },
+    "Gary Payton II": {
+        "bio": {
+            "fname": "Gary",
+            "lname": "Payton",
+            "suffix": "II"
+        },
+        "url": "/players/p/paytoga02.html"
+    },
+    "Norvel Pelle": {
+        "bio": {
+            "fname": "Norvel",
+            "lname": "Pelle",
+            "suffix": ""
+        },
+        "url": "/players/p/pelleno01.html"
+    },
+    "Reggie Perry": {
+        "bio": {
+            "fname": "Reggie",
+            "lname": "Perry",
+            "suffix": ""
+        },
+        "url": "/players/p/perryre01.html"
+    },
+    "Jamorko Pickett": {
+        "bio": {
+            "fname": "Jamorko",
+            "lname": "Pickett",
+            "suffix": ""
+        },
+        "url": "/players/p/pickeja01.html"
+    },
+    "Theo Pinson": {
+        "bio": {
+            "fname": "Theo",
+            "lname": "Pinson",
+            "suffix": ""
+        },
+        "url": "/players/p/pinsoth01.html"
+    },
+    "Scotty Pippen Jr.": {
+        "bio": {
+            "fname": "Scotty",
+            "lname": "Pippen",
+            "suffix": "Jr."
+        },
+        "url": "/players/p/pippesc02.html"
+    },
+    "Mason Plumlee": {
+        "bio": {
+            "fname": "Mason",
+            "lname": "Plumlee",
+            "suffix": ""
+        },
+        "url": "/players/p/plumlma01.html"
+    },
+    "Jakob Poeltl": {
+        "bio": {
+            "fname": "Jakob",
+            "lname": "Poeltl",
+            "suffix": ""
+        },
+        "url": "/players/p/poeltja01.html"
+    },
+    "Aleksej Pokusevski": {
+        "bio": {
+            "fname": "Aleksej",
+            "lname": "Pokusevski",
+            "suffix": ""
+        },
+        "url": "/players/p/pokusal01.html"
+    },
+    "Shamorie Ponds": {
+        "bio": {
+            "fname": "Shamorie",
+            "lname": "Ponds",
+            "suffix": ""
+        },
+        "url": "/players/p/pondssh01.html"
+    },
+    "Yves Pons": {
+        "bio": {
+            "fname": "Yves",
+            "lname": "Pons",
+            "suffix": ""
+        },
+        "url": "/players/p/ponsyv01.html"
+    },
+    "Jordan Poole": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Poole",
+            "suffix": ""
+        },
+        "url": "/players/p/poolejo01.html"
+    },
+    "Jontay Porter": {
+        "bio": {
+            "fname": "Jontay",
+            "lname": "Porter",
+            "suffix": ""
+        },
+        "url": "/players/p/portejo01.html"
+    },
+    "Kevin Porter Jr.": {
+        "bio": {
+            "fname": "Kevin",
+            "lname": "Porter",
+            "suffix": "Jr."
+        },
+        "url": "/players/p/porteke02.html"
+    },
+    "Michael Porter Jr.": {
+        "bio": {
+            "fname": "Michael",
+            "lname": "Porter",
+            "suffix": "Jr."
+        },
+        "url": "/players/p/portemi01.html"
+    },
+    "Otto Porter Jr.": {
+        "bio": {
+            "fname": "Otto",
+            "lname": "Porter",
+            "suffix": "Jr."
+        },
+        "url": "/players/p/porteot01.html"
+    },
+    "Bobby Portis": {
+        "bio": {
+            "fname": "Bobby",
+            "lname": "Portis",
+            "suffix": ""
+        },
+        "url": "/players/p/portibo01.html"
+    },
+    "Kristaps Porzi\u0146\u0123is": {
+        "bio": {
+            "fname": "Kristaps",
+            "lname": "Porzi\u0146\u0123is",
+            "suffix": ""
+        },
+        "url": "/players/p/porzikr01.html"
+    },
+    "Micah Potter": {
+        "bio": {
+            "fname": "Micah",
+            "lname": "Potter",
+            "suffix": ""
+        },
+        "url": "/players/p/pottemi01.html"
+    },
+    "Dwight Powell": {
+        "bio": {
+            "fname": "Dwight",
+            "lname": "Powell",
+            "suffix": ""
+        },
+        "url": "/players/p/poweldw01.html"
+    },
+    "Norman Powell": {
+        "bio": {
+            "fname": "Norman",
+            "lname": "Powell",
+            "suffix": ""
+        },
+        "url": "/players/p/powelno01.html"
+    },
+    "Jason Preston": {
+        "bio": {
+            "fname": "Jason",
+            "lname": "Preston",
+            "suffix": ""
+        },
+        "url": "/players/p/prestja01.html"
+    },
+    "Joshua Primo": {
+        "bio": {
+            "fname": "Joshua",
+            "lname": "Primo",
+            "suffix": ""
+        },
+        "url": "/players/p/primojo01.html"
+    },
+    "Taurean Prince": {
+        "bio": {
+            "fname": "Taurean",
+            "lname": "Prince",
+            "suffix": ""
+        },
+        "url": "/players/p/princta02.html"
+    },
+    "Payton Pritchard": {
+        "bio": {
+            "fname": "Payton",
+            "lname": "Pritchard",
+            "suffix": ""
+        },
+        "url": "/players/p/pritcpa01.html"
+    },
+    "Trevelin Queen": {
+        "bio": {
+            "fname": "Trevelin",
+            "lname": "Queen",
+            "suffix": ""
+        },
+        "url": "/players/q/queentr01.html"
+    },
+    "Neemias Queta": {
+        "bio": {
+            "fname": "Neemias",
+            "lname": "Queta",
+            "suffix": ""
+        },
+        "url": "/players/q/quetane01.html"
+    },
+    "Immanuel Quickley": {
+        "bio": {
+            "fname": "Immanuel",
+            "lname": "Quickley",
+            "suffix": ""
+        },
+        "url": "/players/q/quickim01.html"
+    },
+    "Lester Quinones": {
+        "bio": {
+            "fname": "Lester",
+            "lname": "Quinones",
+            "suffix": ""
+        },
+        "url": "/players/q/quinole01.html"
+    },
+    "Jahmi'us Ramsey": {
+        "bio": {
+            "fname": "Jahmi'us",
+            "lname": "Ramsey",
+            "suffix": ""
+        },
+        "url": "/players/r/ramseja01.html"
+    },
+    "Chasson Randle": {
+        "bio": {
+            "fname": "Chasson",
+            "lname": "Randle",
+            "suffix": ""
+        },
+        "url": "/players/r/randlch01.html"
+    },
+    "Julius Randle": {
+        "bio": {
+            "fname": "Julius",
+            "lname": "Randle",
+            "suffix": ""
+        },
+        "url": "/players/r/randlju01.html"
+    },
+    "Austin Reaves": {
+        "bio": {
+            "fname": "Austin",
+            "lname": "Reaves",
+            "suffix": ""
+        },
+        "url": "/players/r/reaveau01.html"
+    },
+    "Josh Reaves": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Reaves",
+            "suffix": ""
+        },
+        "url": "/players/r/reavejo02.html"
+    },
+    "Cam Reddish": {
+        "bio": {
+            "fname": "Cam",
+            "lname": "Reddish",
+            "suffix": ""
+        },
+        "url": "/players/r/reddica01.html"
+    },
+    "Davon Reed": {
+        "bio": {
+            "fname": "Davon",
+            "lname": "Reed",
+            "suffix": ""
+        },
+        "url": "/players/r/reedda01.html"
+    },
+    "Paul Reed": {
+        "bio": {
+            "fname": "Paul",
+            "lname": "Reed",
+            "suffix": ""
+        },
+        "url": "/players/r/reedpa01.html"
+    },
+    "Naz Reid": {
+        "bio": {
+            "fname": "Naz",
+            "lname": "Reid",
+            "suffix": ""
+        },
+        "url": "/players/r/reidna01.html"
+    },
+    "Jared Rhoden": {
+        "bio": {
+            "fname": "Jared",
+            "lname": "Rhoden",
+            "suffix": ""
+        },
+        "url": "/players/r/rhodeja01.html"
+    },
+    "Nick Richards": {
+        "bio": {
+            "fname": "Nick",
+            "lname": "Richards",
+            "suffix": ""
+        },
+        "url": "/players/r/richani01.html"
+    },
+    "Josh Richardson": {
+        "bio": {
+            "fname": "Josh",
+            "lname": "Richardson",
+            "suffix": ""
+        },
+        "url": "/players/r/richajo01.html"
+    },
+    "Grant Riller": {
+        "bio": {
+            "fname": "Grant",
+            "lname": "Riller",
+            "suffix": ""
+        },
+        "url": "/players/r/rillegr01.html"
+    },
+    "Austin Rivers": {
+        "bio": {
+            "fname": "Austin",
+            "lname": "Rivers",
+            "suffix": ""
+        },
+        "url": "/players/r/riverau01.html"
+    },
+    "Duncan Robinson": {
+        "bio": {
+            "fname": "Duncan",
+            "lname": "Robinson",
+            "suffix": ""
+        },
+        "url": "/players/r/robindu01.html"
+    },
+    "Jerome Robinson": {
+        "bio": {
+            "fname": "Jerome",
+            "lname": "Robinson",
+            "suffix": ""
+        },
+        "url": "/players/r/robinje01.html"
+    },
+    "Justin Robinson": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "Robinson",
+            "suffix": ""
+        },
+        "url": "/players/r/robinju01.html"
+    },
+    "Mitchell Robinson": {
+        "bio": {
+            "fname": "Mitchell",
+            "lname": "Robinson",
+            "suffix": ""
+        },
+        "url": "/players/r/robinmi01.html"
+    },
+    "Orlando Robinson": {
+        "bio": {
+            "fname": "Orlando",
+            "lname": "Robinson",
+            "suffix": ""
+        },
+        "url": "/players/r/robinor01.html"
+    },
+    "Jeremiah Robinson-Earl": {
+        "bio": {
+            "fname": "Jeremiah",
+            "lname": "Robinson-Earl",
+            "suffix": ""
+        },
+        "url": "/players/r/robinje02.html"
+    },
+    "Isaiah Roby": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Roby",
+            "suffix": ""
+        },
+        "url": "/players/r/robyis01.html"
+    },
+    "David Roddy": {
+        "bio": {
+            "fname": "David",
+            "lname": "Roddy",
+            "suffix": ""
+        },
+        "url": "/players/r/roddyda01.html"
+    },
+    "Ryan Rollins": {
+        "bio": {
+            "fname": "Ryan",
+            "lname": "Rollins",
+            "suffix": ""
+        },
+        "url": "/players/r/rolliry01.html"
+    },
+    "Derrick Rose": {
+        "bio": {
+            "fname": "Derrick",
+            "lname": "Rose",
+            "suffix": ""
+        },
+        "url": "/players/r/rosede01.html"
+    },
+    "Terrence Ross": {
+        "bio": {
+            "fname": "Terrence",
+            "lname": "Ross",
+            "suffix": ""
+        },
+        "url": "/players/r/rosste01.html"
+    },
+    "Terry Rozier": {
+        "bio": {
+            "fname": "Terry",
+            "lname": "Rozier",
+            "suffix": ""
+        },
+        "url": "/players/r/roziete01.html"
+    },
+    "Ricky Rubio": {
+        "bio": {
+            "fname": "Ricky",
+            "lname": "Rubio",
+            "suffix": ""
+        },
+        "url": "/players/r/rubiori01.html"
+    },
+    "D'Angelo Russell": {
+        "bio": {
+            "fname": "D'Angelo",
+            "lname": "Russell",
+            "suffix": ""
+        },
+        "url": "/players/r/russeda01.html"
+    },
+    "Matt Ryan": {
+        "bio": {
+            "fname": "Matt",
+            "lname": "Ryan",
+            "suffix": ""
+        },
+        "url": "/players/r/ryanma01.html"
+    },
+    "Domantas Sabonis": {
+        "bio": {
+            "fname": "Domantas",
+            "lname": "Sabonis",
+            "suffix": ""
+        },
+        "url": "/players/s/sabondo01.html"
+    },
+    "Brandon Sampson": {
+        "bio": {
+            "fname": "Brandon",
+            "lname": "Sampson",
+            "suffix": ""
+        },
+        "url": "/players/s/sampsbr01.html"
+    },
+    "Olivier Sarr": {
+        "bio": {
+            "fname": "Olivier",
+            "lname": "Sarr",
+            "suffix": ""
+        },
+        "url": "/players/s/sarrol01.html"
+    },
+    "Jordan Schakel": {
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Schakel",
+            "suffix": ""
+        },
+        "url": "/players/s/schakjo01.html"
+    },
+    "Admiral Schofield": {
+        "bio": {
+            "fname": "Admiral",
+            "lname": "Schofield",
+            "suffix": ""
+        },
+        "url": "/players/s/schofad01.html"
+    },
+    "Dennis Schr\u00f6der": {
+        "bio": {
+            "fname": "Dennis",
+            "lname": "Schr\u00f6der",
+            "suffix": ""
+        },
+        "url": "/players/s/schrode01.html"
+    },
+    "Jay Scrubb": {
+        "bio": {
+            "fname": "Jay",
+            "lname": "Scrubb",
+            "suffix": ""
+        },
+        "url": "/players/s/scrubja01.html"
+    },
+    "Dereon Seabron": {
+        "bio": {
+            "fname": "Dereon",
+            "lname": "Seabron",
+            "suffix": ""
+        },
+        "url": "/players/s/seabrde01.html"
+    },
+    "Collin Sexton": {
+        "bio": {
+            "fname": "Collin",
+            "lname": "Sexton",
+            "suffix": ""
+        },
+        "url": "/players/s/sextoco01.html"
+    },
+    "Landry Shamet": {
+        "bio": {
+            "fname": "Landry",
+            "lname": "Shamet",
+            "suffix": ""
+        },
+        "url": "/players/s/shamela01.html"
+    },
+    "Day'Ron Sharpe": {
+        "bio": {
+            "fname": "Day'Ron",
+            "lname": "Sharpe",
+            "suffix": ""
+        },
+        "url": "/players/s/sharpda01.html"
+    },
+    "Shaedon Sharpe": {
+        "bio": {
+            "fname": "Shaedon",
+            "lname": "Sharpe",
+            "suffix": ""
+        },
+        "url": "/players/s/sharpsh01.html"
+    },
+    "Marial Shayok": {
+        "bio": {
+            "fname": "Marial",
+            "lname": "Shayok",
+            "suffix": ""
+        },
+        "url": "/players/s/shayoma01.html"
+    },
+    "Pascal Siakam": {
+        "bio": {
+            "fname": "Pascal",
+            "lname": "Siakam",
+            "suffix": ""
+        },
+        "url": "/players/s/siakapa01.html"
+    },
+    "Chris Silva": {
+        "bio": {
+            "fname": "Chris",
+            "lname": "Silva",
+            "suffix": ""
+        },
+        "url": "/players/s/silvach01.html"
+    },
+    "Ben Simmons": {
+        "bio": {
+            "fname": "Ben",
+            "lname": "Simmons",
+            "suffix": ""
+        },
+        "url": "/players/s/simmobe01.html"
+    },
+    "Kobi Simmons": {
+        "bio": {
+            "fname": "Kobi",
+            "lname": "Simmons",
+            "suffix": ""
+        },
+        "url": "/players/s/simmoko01.html"
+    },
+    "Marko Simonovic": {
+        "bio": {
+            "fname": "Marko",
+            "lname": "Simonovic",
+            "suffix": ""
+        },
+        "url": "/players/s/simonma01.html"
+    },
+    "Anfernee Simons": {
+        "bio": {
+            "fname": "Anfernee",
+            "lname": "Simons",
+            "suffix": ""
+        },
+        "url": "/players/s/simonan01.html"
+    },
+    "Zavier Simpson": {
+        "bio": {
+            "fname": "Zavier",
+            "lname": "Simpson",
+            "suffix": ""
+        },
+        "url": "/players/s/simpsza01.html"
+    },
+    "Jericho Sims": {
+        "bio": {
+            "fname": "Jericho",
+            "lname": "Sims",
+            "suffix": ""
+        },
+        "url": "/players/s/simsje01.html"
+    },
+    "Deividas Sirvydis": {
+        "bio": {
+            "fname": "Deividas",
+            "lname": "Sirvydis",
+            "suffix": ""
+        },
+        "url": "/players/s/sirvyde01.html"
+    },
+    "Alen Smailagi\u0107": {
+        "bio": {
+            "fname": "Alen",
+            "lname": "Smailagi\u0107",
+            "suffix": ""
+        },
+        "url": "/players/s/smailal01.html"
+    },
+    "Javonte Smart": {
+        "bio": {
+            "fname": "Javonte",
+            "lname": "Smart",
+            "suffix": ""
+        },
+        "url": "/players/s/smartja01.html"
+    },
+    "Marcus Smart": {
+        "bio": {
+            "fname": "Marcus",
+            "lname": "Smart",
+            "suffix": ""
+        },
+        "url": "/players/s/smartma01.html"
+    },
+    "Dennis Smith Jr.": {
+        "bio": {
+            "fname": "Dennis",
+            "lname": "Smith",
+            "suffix": "Jr."
+        },
+        "url": "/players/s/smithde03.html"
+    },
+    "Dru Smith": {
+        "bio": {
+            "fname": "Dru",
+            "lname": "Smith",
+            "suffix": ""
+        },
+        "url": "/players/s/smithdr01.html"
+    },
+    "Ish Smith": {
+        "bio": {
+            "fname": "Ish",
+            "lname": "Smith",
+            "suffix": ""
+        },
+        "url": "/players/s/smithis01.html"
+    },
+    "Jabari Smith Jr.": {
+        "bio": {
+            "fname": "Jabari",
+            "lname": "Smith",
+            "suffix": "Jr."
+        },
+        "url": "/players/s/smithja05.html"
+    },
+    "Jalen Smith": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Smith",
+            "suffix": ""
+        },
+        "url": "/players/s/smithja04.html"
+    },
+    "Zhaire Smith": {
+        "bio": {
+            "fname": "Zhaire",
+            "lname": "Smith",
+            "suffix": ""
+        },
+        "url": "/players/s/smithzh01.html"
+    },
+    "Xavier Sneed": {
+        "bio": {
+            "fname": "Xavier",
+            "lname": "Sneed",
+            "suffix": ""
+        },
+        "url": "/players/s/sneedxa01.html"
+    },
+    "Jeremy Sochan": {
+        "bio": {
+            "fname": "Jeremy",
+            "lname": "Sochan",
+            "suffix": ""
+        },
+        "url": "/players/s/sochaje01.html"
+    },
+    "Ray Spalding": {
+        "bio": {
+            "fname": "Ray",
+            "lname": "Spalding",
+            "suffix": ""
+        },
+        "url": "/players/s/spaldra01.html"
+    },
+    "Omari Spellman": {
+        "bio": {
+            "fname": "Omari",
+            "lname": "Spellman",
+            "suffix": ""
+        },
+        "url": "/players/s/spellom01.html"
+    },
+    "Jaden Springer": {
+        "bio": {
+            "fname": "Jaden",
+            "lname": "Springer",
+            "suffix": ""
+        },
+        "url": "/players/s/sprinja01.html"
+    },
+    "Cassius Stanley": {
+        "bio": {
+            "fname": "Cassius",
+            "lname": "Stanley",
+            "suffix": ""
+        },
+        "url": "/players/s/stanlca01.html"
+    },
+    "Nik Stauskas": {
+        "bio": {
+            "fname": "Nik",
+            "lname": "Stauskas",
+            "suffix": ""
+        },
+        "url": "/players/s/stausni01.html"
+    },
+    "Lamar Stevens": {
+        "bio": {
+            "fname": "Lamar",
+            "lname": "Stevens",
+            "suffix": ""
+        },
+        "url": "/players/s/stevela01.html"
+    },
+    "Isaiah Stewart": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Stewart",
+            "suffix": ""
+        },
+        "url": "/players/s/stewais01.html"
+    },
+    "Max Strus": {
+        "bio": {
+            "fname": "Max",
+            "lname": "Strus",
+            "suffix": ""
+        },
+        "url": "/players/s/strusma01.html"
+    },
+    "Jalen Suggs": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Suggs",
+            "suffix": ""
+        },
+        "url": "/players/s/suggsja01.html"
+    },
+    "Edmond Sumner": {
+        "bio": {
+            "fname": "Edmond",
+            "lname": "Sumner",
+            "suffix": ""
+        },
+        "url": "/players/s/sumneed01.html"
+    },
+    "Cole Swider": {
+        "bio": {
+            "fname": "Cole",
+            "lname": "Swider",
+            "suffix": ""
+        },
+        "url": "/players/s/swideco01.html"
+    },
+    "Craig Sword": {
+        "bio": {
+            "fname": "Craig",
+            "lname": "Sword",
+            "suffix": ""
+        },
+        "url": "/players/s/swordcr01.html"
+    },
+    "Keifer Sykes": {
+        "bio": {
+            "fname": "Keifer",
+            "lname": "Sykes",
+            "suffix": ""
+        },
+        "url": "/players/s/sykeske01.html"
+    },
+    "Jae'Sean Tate": {
+        "bio": {
+            "fname": "Jae'Sean",
+            "lname": "Tate",
+            "suffix": ""
+        },
+        "url": "/players/t/tateja01.html"
+    },
+    "Jayson Tatum": {
+        "bio": {
+            "fname": "Jayson",
+            "lname": "Tatum",
+            "suffix": ""
+        },
+        "url": "/players/t/tatumja01.html"
+    },
+    "Terry Taylor": {
+        "bio": {
+            "fname": "Terry",
+            "lname": "Taylor",
+            "suffix": ""
+        },
+        "url": "/players/t/taylote01.html"
+    },
+    "Garrett Temple": {
+        "bio": {
+            "fname": "Garrett",
+            "lname": "Temple",
+            "suffix": ""
+        },
+        "url": "/players/t/templga01.html"
+    },
+    "Dalen Terry": {
+        "bio": {
+            "fname": "Dalen",
+            "lname": "Terry",
+            "suffix": ""
+        },
+        "url": "/players/t/terryda01.html"
+    },
+    "Tyrell Terry": {
+        "bio": {
+            "fname": "Tyrell",
+            "lname": "Terry",
+            "suffix": ""
+        },
+        "url": "/players/t/terryty01.html"
+    },
+    "Daniel Theis": {
+        "bio": {
+            "fname": "Daniel",
+            "lname": "Theis",
+            "suffix": ""
+        },
+        "url": "/players/t/theisda01.html"
+    },
+    "Brodric Thomas": {
+        "bio": {
+            "fname": "Brodric",
+            "lname": "Thomas",
+            "suffix": ""
+        },
+        "url": "/players/t/thomabr01.html"
+    },
+    "Cam Thomas": {
+        "bio": {
+            "fname": "Cam",
+            "lname": "Thomas",
+            "suffix": ""
+        },
+        "url": "/players/t/thomaca02.html"
+    },
+    "Khyri Thomas": {
+        "bio": {
+            "fname": "Khyri",
+            "lname": "Thomas",
+            "suffix": ""
+        },
+        "url": "/players/t/thomakh01.html"
+    },
+    "Klay Thompson": {
+        "bio": {
+            "fname": "Klay",
+            "lname": "Thompson",
+            "suffix": ""
+        },
+        "url": "/players/t/thompkl01.html"
+    },
+    "Tristan Thompson": {
+        "bio": {
+            "fname": "Tristan",
+            "lname": "Thompson",
+            "suffix": ""
+        },
+        "url": "/players/t/thomptr01.html"
+    },
+    "JT Thor": {
+        "bio": {
+            "fname": "JT",
+            "lname": "Thor",
+            "suffix": ""
+        },
+        "url": "/players/t/thorjt01.html"
+    },
+    "Matisse Thybulle": {
+        "bio": {
+            "fname": "Matisse",
+            "lname": "Thybulle",
+            "suffix": ""
+        },
+        "url": "/players/t/thybuma01.html"
+    },
+    "Killian Tillie": {
+        "bio": {
+            "fname": "Killian",
+            "lname": "Tillie",
+            "suffix": ""
+        },
+        "url": "/players/t/tilliki02.html"
+    },
+    "Xavier Tillman Sr.": {
+        "bio": {
+            "fname": "Xavier",
+            "lname": "Tillman",
+            "suffix": "Sr."
+        },
+        "url": "/players/t/tillmxa01.html"
+    },
+    "Isaiah Todd": {
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Todd",
+            "suffix": ""
+        },
+        "url": "/players/t/toddis01.html"
+    },
+    "Obi Toppin": {
+        "bio": {
+            "fname": "Obi",
+            "lname": "Toppin",
+            "suffix": ""
+        },
+        "url": "/players/t/toppiob01.html"
+    },
+    "Juan Toscano-Anderson": {
+        "bio": {
+            "fname": "Juan",
+            "lname": "Toscano-Anderson",
+            "suffix": ""
+        },
+        "url": "/players/t/toscaju01.html"
+    },
+    "Karl-Anthony Towns": {
+        "bio": {
+            "fname": "Karl-Anthony",
+            "lname": "Towns",
+            "suffix": ""
+        },
+        "url": "/players/t/townska01.html"
+    },
+    "Gary Trent Jr.": {
+        "bio": {
+            "fname": "Gary",
+            "lname": "Trent",
+            "suffix": "Jr."
+        },
+        "url": "/players/t/trentga02.html"
+    },
+    "P.J. Tucker": {
+        "bio": {
+            "fname": "P.J.",
+            "lname": "Tucker",
+            "suffix": ""
+        },
+        "url": "/players/t/tuckepj01.html"
+    },
+    "Rayjon Tucker": {
+        "bio": {
+            "fname": "Rayjon",
+            "lname": "Tucker",
+            "suffix": ""
+        },
+        "url": "/players/t/tuckera01.html"
+    },
+    "Myles Turner": {
+        "bio": {
+            "fname": "Myles",
+            "lname": "Turner",
+            "suffix": ""
+        },
+        "url": "/players/t/turnemy01.html"
+    },
+    "Stanley Umude": {
+        "bio": {
+            "fname": "Stanley",
+            "lname": "Umude",
+            "suffix": ""
+        },
+        "url": "/players/u/umudest01.html"
+    },
+    "Jonas Valan\u010di\u016bnas": {
+        "bio": {
+            "fname": "Jonas",
+            "lname": "Valan\u010di\u016bnas",
+            "suffix": ""
+        },
+        "url": "/players/v/valanjo01.html"
+    },
+    "Denzel Valentine": {
+        "bio": {
+            "fname": "Denzel",
+            "lname": "Valentine",
+            "suffix": ""
+        },
+        "url": "/players/v/valende01.html"
+    },
+    "Fred VanVleet": {
+        "bio": {
+            "fname": "Fred",
+            "lname": "VanVleet",
+            "suffix": ""
+        },
+        "url": "/players/v/vanvlfr01.html"
+    },
+    "Jarred Vanderbilt": {
+        "bio": {
+            "fname": "Jarred",
+            "lname": "Vanderbilt",
+            "suffix": ""
+        },
+        "url": "/players/v/vandeja01.html"
+    },
+    "Devin Vassell": {
+        "bio": {
+            "fname": "Devin",
+            "lname": "Vassell",
+            "suffix": ""
+        },
+        "url": "/players/v/vassede01.html"
+    },
+    "Gabe Vincent": {
+        "bio": {
+            "fname": "Gabe",
+            "lname": "Vincent",
+            "suffix": ""
+        },
+        "url": "/players/v/vincega01.html"
+    },
+    "Noah Vonleh": {
+        "bio": {
+            "fname": "Noah",
+            "lname": "Vonleh",
+            "suffix": ""
+        },
+        "url": "/players/v/vonleno01.html"
+    },
+    "Nikola Vu\u010devi\u0107": {
+        "bio": {
+            "fname": "Nikola",
+            "lname": "Vu\u010devi\u0107",
+            "suffix": ""
+        },
+        "url": "/players/v/vucevni01.html"
+    },
+    "Dean Wade": {
+        "bio": {
+            "fname": "Dean",
+            "lname": "Wade",
+            "suffix": ""
+        },
+        "url": "/players/w/wadede01.html"
+    },
+    "Franz Wagner": {
+        "bio": {
+            "fname": "Franz",
+            "lname": "Wagner",
+            "suffix": ""
+        },
+        "url": "/players/w/wagnefr01.html"
+    },
+    "Moritz Wagner": {
+        "bio": {
+            "fname": "Moritz",
+            "lname": "Wagner",
+            "suffix": ""
+        },
+        "url": "/players/w/wagnemo01.html"
+    },
+    "Ish Wainright": {
+        "bio": {
+            "fname": "Ish",
+            "lname": "Wainright",
+            "suffix": ""
+        },
+        "url": "/players/w/wainris01.html"
+    },
+    "Jabari Walker": {
+        "bio": {
+            "fname": "Jabari",
+            "lname": "Walker",
+            "suffix": ""
+        },
+        "url": "/players/w/walkeja01.html"
+    },
+    "Kemba Walker": {
+        "bio": {
+            "fname": "Kemba",
+            "lname": "Walker",
+            "suffix": ""
+        },
+        "url": "/players/w/walkeke02.html"
+    },
+    "Lonnie Walker IV": {
+        "bio": {
+            "fname": "Lonnie",
+            "lname": "Walker",
+            "suffix": "IV"
+        },
+        "url": "/players/w/walkelo01.html"
+    },
+    "M.J. Walker": {
+        "bio": {
+            "fname": "M.J.",
+            "lname": "Walker",
+            "suffix": ""
+        },
+        "url": "/players/w/walkemj01.html"
+    },
+    "John Wall": {
+        "bio": {
+            "fname": "John",
+            "lname": "Wall",
+            "suffix": ""
+        },
+        "url": "/players/w/walljo01.html"
+    },
+    "T.J. Warren": {
+        "bio": {
+            "fname": "T.J.",
+            "lname": "Warren",
+            "suffix": ""
+        },
+        "url": "/players/w/warretj01.html"
+    },
+    "Duane Washington Jr.": {
+        "bio": {
+            "fname": "Duane",
+            "lname": "Washington",
+            "suffix": "Jr."
+        },
+        "url": "/players/w/washidu02.html"
+    },
+    "P.J. Washington": {
+        "bio": {
+            "fname": "P.J.",
+            "lname": "Washington",
+            "suffix": ""
+        },
+        "url": "/players/w/washipj01.html"
+    },
+    "TyTy Washington Jr.": {
+        "bio": {
+            "fname": "TyTy",
+            "lname": "Washington",
+            "suffix": "Jr."
+        },
+        "url": "/players/w/washity02.html"
+    },
+    "Yuta Watanabe": {
+        "bio": {
+            "fname": "Yuta",
+            "lname": "Watanabe",
+            "suffix": ""
+        },
+        "url": "/players/w/watanyu01.html"
+    },
+    "Lindy Waters III": {
+        "bio": {
+            "fname": "Lindy",
+            "lname": "Waters",
+            "suffix": "III"
+        },
+        "url": "/players/w/waterli01.html"
+    },
+    "Tremont Waters": {
+        "bio": {
+            "fname": "Tremont",
+            "lname": "Waters",
+            "suffix": ""
+        },
+        "url": "/players/w/watertr01.html"
+    },
+    "Trendon Watford": {
+        "bio": {
+            "fname": "Trendon",
+            "lname": "Watford",
+            "suffix": ""
+        },
+        "url": "/players/w/watfotr01.html"
+    },
+    "Peyton Watson": {
+        "bio": {
+            "fname": "Peyton",
+            "lname": "Watson",
+            "suffix": ""
+        },
+        "url": "/players/w/watsope01.html"
+    },
+    "Quinndary Weatherspoon": {
+        "bio": {
+            "fname": "Quinndary",
+            "lname": "Weatherspoon",
+            "suffix": ""
+        },
+        "url": "/players/w/weathqu01.html"
+    },
+    "Thomas Welsh": {
+        "bio": {
+            "fname": "Thomas",
+            "lname": "Welsh",
+            "suffix": ""
+        },
+        "url": "/players/w/welshth01.html"
+    },
+    "Blake Wesley": {
+        "bio": {
+            "fname": "Blake",
+            "lname": "Wesley",
+            "suffix": ""
+        },
+        "url": "/players/w/weslebl01.html"
+    },
+    "Russell Westbrook": {
+        "bio": {
+            "fname": "Russell",
+            "lname": "Westbrook",
+            "suffix": ""
+        },
+        "url": "/players/w/westbru01.html"
+    },
+    "Coby White": {
+        "bio": {
+            "fname": "Coby",
+            "lname": "White",
+            "suffix": ""
+        },
+        "url": "/players/w/whiteco01.html"
+    },
+    "Derrick White": {
+        "bio": {
+            "fname": "Derrick",
+            "lname": "White",
+            "suffix": ""
+        },
+        "url": "/players/w/whitede01.html"
+    },
+    "Jack White": {
+        "bio": {
+            "fname": "Jack",
+            "lname": "White",
+            "suffix": ""
+        },
+        "url": "/players/w/whiteja03.html"
+    },
+    "Okaro White": {
+        "bio": {
+            "fname": "Okaro",
+            "lname": "White",
+            "suffix": ""
+        },
+        "url": "/players/w/whiteok01.html"
+    },
+    "Joe Wieskamp": {
+        "bio": {
+            "fname": "Joe",
+            "lname": "Wieskamp",
+            "suffix": ""
+        },
+        "url": "/players/w/wieskjo01.html"
+    },
+    "Aaron Wiggins": {
+        "bio": {
+            "fname": "Aaron",
+            "lname": "Wiggins",
+            "suffix": ""
+        },
+        "url": "/players/w/wiggiaa01.html"
+    },
+    "Andrew Wiggins": {
+        "bio": {
+            "fname": "Andrew",
+            "lname": "Wiggins",
+            "suffix": ""
+        },
+        "url": "/players/w/wiggian01.html"
+    },
+    "Lindell Wigginton": {
+        "bio": {
+            "fname": "Lindell",
+            "lname": "Wigginton",
+            "suffix": ""
+        },
+        "url": "/players/w/wiggili01.html"
+    },
+    "Alondes Williams": {
+        "bio": {
+            "fname": "Alondes",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willial06.html"
+    },
+    "Brandon Williams": {
+        "bio": {
+            "fname": "Brandon",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willibr03.html"
+    },
+    "Donovan Williams": {
+        "bio": {
+            "fname": "Donovan",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willido02.html"
+    },
+    "Grant Williams": {
+        "bio": {
+            "fname": "Grant",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willigr01.html"
+    },
+    "Jalen Williams": {
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willija06.html"
+    },
+    "Jaylin Williams": {
+        "bio": {
+            "fname": "Jaylin",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willija07.html"
+    },
+    "Jeenathan Williams": {
+        "bio": {
+            "fname": "Jeenathan",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willije02.html"
+    },
+    "Kenrich Williams": {
+        "bio": {
+            "fname": "Kenrich",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willike04.html"
+    },
+    "Mark Williams": {
+        "bio": {
+            "fname": "Mark",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willima07.html"
+    },
+    "Patrick Williams": {
+        "bio": {
+            "fname": "Patrick",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willipa01.html"
+    },
+    "Robert Williams": {
+        "bio": {
+            "fname": "Robert",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/williro04.html"
+    },
+    "Vince Williams Jr.": {
+        "bio": {
+            "fname": "Vince",
+            "lname": "Williams",
+            "suffix": "Jr."
+        },
+        "url": "/players/w/willivi01.html"
+    },
+    "Ziaire Williams": {
+        "bio": {
+            "fname": "Ziaire",
+            "lname": "Williams",
+            "suffix": ""
+        },
+        "url": "/players/w/willizi02.html"
+    },
+    "Zion Williamson": {
+        "bio": {
+            "fname": "Zion",
+            "lname": "Williamson",
+            "suffix": ""
+        },
+        "url": "/players/w/willizi01.html"
+    },
+    "D.J. Wilson": {
+        "bio": {
+            "fname": "D.J.",
+            "lname": "Wilson",
+            "suffix": ""
+        },
+        "url": "/players/w/wilsodj01.html"
+    },
+    "Dylan Windler": {
+        "bio": {
+            "fname": "Dylan",
+            "lname": "Windler",
+            "suffix": ""
+        },
+        "url": "/players/w/windldy01.html"
+    },
+    "Justise Winslow": {
+        "bio": {
+            "fname": "Justise",
+            "lname": "Winslow",
+            "suffix": ""
+        },
+        "url": "/players/w/winslju01.html"
+    },
+    "Cassius Winston": {
+        "bio": {
+            "fname": "Cassius",
+            "lname": "Winston",
+            "suffix": ""
+        },
+        "url": "/players/w/winstca01.html"
+    },
+    "James Wiseman": {
+        "bio": {
+            "fname": "James",
+            "lname": "Wiseman",
+            "suffix": ""
+        },
+        "url": "/players/w/wisemja01.html"
+    },
+    "Christian Wood": {
+        "bio": {
+            "fname": "Christian",
+            "lname": "Wood",
+            "suffix": ""
+        },
+        "url": "/players/w/woodch01.html"
+    },
+    "Robert Woodard II": {
+        "bio": {
+            "fname": "Robert",
+            "lname": "Woodard",
+            "suffix": "II"
+        },
+        "url": "/players/w/woodaro01.html"
+    },
+    "Delon Wright": {
+        "bio": {
+            "fname": "Delon",
+            "lname": "Wright",
+            "suffix": ""
+        },
+        "url": "/players/w/wrighde01.html"
+    },
+    "McKinley Wright IV": {
+        "bio": {
+            "fname": "McKinley",
+            "lname": "Wright",
+            "suffix": "IV"
+        },
+        "url": "/players/w/wrighmc01.html"
+    },
+    "Justin Wright-Foreman": {
+        "bio": {
+            "fname": "Justin",
+            "lname": "Wright-Foreman",
+            "suffix": ""
+        },
+        "url": "/players/w/wrighju02.html"
+    },
+    "Gabe York": {
+        "bio": {
+            "fname": "Gabe",
+            "lname": "York",
+            "suffix": ""
+        },
+        "url": "/players/y/yorkga01.html"
+    },
+    "Thaddeus Young": {
+        "bio": {
+            "fname": "Thaddeus",
+            "lname": "Young",
+            "suffix": ""
+        },
+        "url": "/players/y/youngth01.html"
+    },
+    "Trae Young": {
+        "bio": {
+            "fname": "Trae",
+            "lname": "Young",
+            "suffix": ""
+        },
+        "url": "/players/y/youngtr01.html"
+    },
+    "Omer Yurtseven": {
+        "bio": {
+            "fname": "Omer",
+            "lname": "Yurtseven",
+            "suffix": ""
+        },
+        "url": "/players/y/yurtsom01.html"
+    },
+    "Cody Zeller": {
+        "bio": {
+            "fname": "Cody",
+            "lname": "Zeller",
+            "suffix": ""
+        },
+        "url": "/players/z/zelleco01.html"
+    },
+    "Ivica Zubac": {
+        "bio": {
+            "fname": "Ivica",
+            "lname": "Zubac",
+            "suffix": ""
+        },
+        "url": "/players/z/zubaciv01.html"
+    },
+    "Vlatko \u010can\u010dar": {
+        "bio": {
+            "fname": "Vlatko",
+            "lname": "\u010can\u010dar",
+            "suffix": ""
+        },
+        "url": "/players/c/cancavl01.html"
+    },
+    "Alperen \u015eeng\u00fcn": {
+        "bio": {
+            "fname": "Alperen",
+            "lname": "\u015eeng\u00fcn",
+            "suffix": ""
+        },
+        "url": "/players/s/sengual01.html"
+    },
+    "Luka \u0160amani\u0107": {
+        "bio": {
+            "fname": "Luka",
+            "lname": "\u0160amani\u0107",
+            "suffix": ""
+        },
+        "url": "/players/s/samanlu01.html"
+    },
+    "Dario \u0160ari\u0107": {
+        "bio": {
+            "fname": "Dario",
+            "lname": "\u0160ari\u0107",
+            "suffix": ""
+        },
+        "url": "/players/s/saricda01.html"
+    }
+}

@@ -1,0 +1,109 @@
+"""
+Find all active players
+Capture their bio data and stats
+Store into dictionary with their names 
+"""
+Dictionary format:
+players = {
+    'Domantas Sabonis' : {
+       'url' : 'https:.....',
+       'bio' : {
+            'name' : "Domantas Sabonis",
+            'age' : 27,
+            'position' : {'PF', 'C'},
+            'hand' : 'L',
+            'height' : 83, # inches
+            'weight' : 240, # pounds
+            'college' : 'Gonzaga',
+            'draft-info' : {
+                'round' : 1,
+                'pick' : 11,
+                'year' : 2016,
+                
+            },
+            'country' : 'USA',
+            'experience' :  7, # years
+            'team' : 'SAC',
+            'jersey-num' : 10,
+        },
+        'reg-stats' : { # include advanced stats
+            '2016-2017' : {
+                'team' : 'OKC',
+                'pts_pg' : 5.9,
+                'a_pg' : 1.0,
+                'reb_pg' : 3.6,
+                # ...., # and so on (include totals at end)
+            }
+            
+        },
+        'playoff-stats' : { # include advanced stats
+            # similar to reg-stats
+        },
+        'other-metrics' : { # include shooting, fouling, and other advanced stats
+            
+        },
+        'awards' : {
+            '2019-2020' : {
+                'all-star' : True
+            },
+            '2020-2021' : {
+                'all-star' : True
+            },
+            '2022-2023' : {
+                'all-star' : True,
+                'all-nba' : '3rd',
+                'league-leader' : {'reb'}
+            }
+        },
+        'contract' : {
+            '2023-2024' : {
+                'salary': 30600000,
+            },
+            '2024-2045' : {
+                'salary' : 41800000,
+            },
+            '2025-2046' : {
+                'salary' : 44936000,
+            },
+            '2026-2047' :  {
+                'salary' : 48072000,
+            },
+            '2027-2048' : {
+                'salary' : 51208000,
+            }
+        },
+    },
+    # similar idea for other players   
+}
+"""
+Create all 32 teams
+Store their info
+Add players into their roster
+Sum up salary of all players in roster
+Determine whether team's salary situation
+"""
+Create all 32 teams
+Store their info
+Add players into their roster
+league = {
+    'SAC' : {
+        'roster' : {'Domantas Sabonis'},
+        'draft-cap' : {
+            '2024' : ['2nd'],
+            '2025' : ['2nd(Own)', '2nd(POR)'],
+            '2026' : [],
+            '2027' : ['1st(Own)'],
+            '2028' : ['1st(Own)', '2nd(Own)'],
+            '2029' : ['1st(Own)', '2nd(Own)'],
+            '2030' : ['1st(Own)']
+        },
+        'salary-cap' : { # helps determine if eligible for MLE and other excpetions
+            'roster-cap' : 147760757, # actually add up roster contracts
+            'min-cap' : True,
+            'soft-cap' : True,
+            'luxury-tax' : False,
+            'super-tax-apron' : False,
+        },
+    },
+    # similar idea for other teams
+}
