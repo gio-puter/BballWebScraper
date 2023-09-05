@@ -29,8 +29,11 @@ def retrieve_data(get_file):
         return None
 
 
-# players = {}
-def get_active_players():
+"""
+Finds all active NBA players (including rookies)
+Puts them in big dictionary where their name is the key
+"""
+def find_active_players():
     active_url = "https://www.basketball-reference.com/players/a"
     players = retrieve_data('players.txt')
     if (len(players == 691)):
@@ -119,10 +122,25 @@ def get_active_players():
                     }
                     done = True
     players = dict(sorted(players.items(), key=lambda x: x[1]['bio']['lname']))
-    save_data('players.txt', players)
+    # save_data('players.txt', players)
     return players
+
+"""
+Takes in dictionary of player
+"""
+def set_player_data(player):
+    player['url'] = 'aesiruasieru'
+    return
+
 
 
 if __name__ == '__main__':
     print("maybe")
-    # print(get_active_players())
+    players = retrieve_data('players.txt')
+    print(players['Zion Williamson'])
+    players['Zion Williamson'] = set_player_data(players['Zion Williamson'])
+    print(players['Zion Williamson'])
+    # players = find_active_players()
+    # save_data('players.txt', players)
+    # for player in players.keys():
+    #     players[player] = set_player_data(players[player])
