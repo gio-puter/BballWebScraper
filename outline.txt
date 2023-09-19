@@ -48,11 +48,7 @@ players = {
             '2020-2021' : {
                 'all-star' : True
             },
-            '2022-2023' : {
-                'all-star' : True,
-                'all-nba' : '3rd',
-                'league-leader' : {'reb'}
-            }
+            '2022-2023' : ['all-star', 'all-nba(3rd)', 'reb-leader']
         },
         'contract' : {
             'team' : 'SAC',

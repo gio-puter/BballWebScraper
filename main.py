@@ -230,10 +230,27 @@ Fills their dictionary bio, stats, accolades, contract, etc
 """
 def set_player_data(player):
     html_doc = get_soup('https://www.basketball-reference.com' + player['url'])
-    """
-    Bio Section
-    """
-    bio = html_doc.find(id = 'meta').findAll('p')
+
+    # Setting Player Bio
+    set_bio(html_doc, player)
+
+    # Setting Player Awards
+    set_awards(html_doc, player)
+
+    return player
+
+""" Adds player's metadata to their bio
+Position
+Height/Weight
+Birthday/Nationality
+Education
+Draft Position
+NBA Debut Date
+Experience
+Jersey Number
+"""
+def set_bio(html, player):
+    bio = html.find(id = 'meta').findAll('p')
     for item in bio:
         item = ' '.join(item.getText().split())
         if 'Position' in item: # get position(s) and shooting hand
@@ -314,51 +331,260 @@ def set_player_data(player):
             else:
                 player['bio']['experience'] = int(item[0])
 
-    jersey_num = html_doc.findAll('svg', {'class' : 'jersey'})
+    jersey_num = html.findAll('svg', {'class' : 'jersey'})
     jersey_num = None if not jersey_num else int(jersey_num[-1].getText()) # get most recent jersey number
     player['bio']['jersey-num'] = jersey_num
 
     if 'draft-info' not in player['bio']: player['bio']['draft-info'] = {'round' : 'Undrafted'}
 
-    """
-    Awards Section
-    """
+    return
+    # return player
 
 
-    return player
+""" Adds player's awards to their awards list by year
+e.g.
+'awards' : {
+    '2019-2020' : {
+        'all-star' : True
+    },
+    '2020-2021' : {
+        'all-star' : True
+    },
+    '2022-2023' : {
+        'all-star' : True,
+        'all-nba' : '3rd',
+        'league-leader' : {'reb'}
+    }
+}
+"""
+def set_awards(html, player):
+    awards = {}
+    collection = html.find_all('div', {'class' : 'data_grid_box'})
+    for category in collection:
+        id = cleanAwardID(category.get('id'))
+        if not id:
+            continue
+        print(id)
+        category = category.find_all('td', {'class' : 'single'})
+        for award in category:
+            awardText = award.getText()
+            if not cleanAwardText(awardText):
+                continue
+            
+            # print(awardText)
+            award = getAward(id, awardText)
+            if not award:
+                continue
+            # print(award)
+            year, awardText = award
 
+            try:
+                awards[year].append(awardText)
+            except:
+                awards[year] = []
+                awards[year].append(awardText)
+                
+    player['awards'] = dict(sorted(awards.items()))
+    return
 
+def cleanAwardID(id):
+    id = re.sub(r'^leaderboard_(.*)$', r'\1', id)
+    if len(id) < 5:
+        return False
+    if re.search('rtg$', id):
+        return False
+    if re.search('pct$', id):
+        return False
+    if re.search('48$', id):
+        return False
+    if re.search('prob$', id):
+        return False
+    if re.search('shares$', id):
+        return False
+    if re.search('_awards$', id):
+        return False
+    if re.search('dbl', id):
+        return False
+    if re.search('honors$', id):
+        return False
+    if re.search('^mp', id):
+        return False
+    
+    # print(id)
+    return re.sub(r'(.*)_per_g$', r'\1', id)
+def cleanAwardText(text):
+    if re.search('^Career', text):
+        return False
+    if re.search('^Active', text):
+        return False
+    if re.search('Sporting News', text):
+        return False
+    if re.search('J. Walter', text):
+        return False
+    if re.search('Anniversary', text):
+        return False
+    if re.search('Twyman', text):
+        return False
+    if re.search('ABA', text):
+        return False
+    if re.search('Comeback', text):
+        return False
+    if re.search('Hustle', text):
+        return False
+    if re.search('Justice', text):
+        return False
+    if re.search('Coach', text):
+        return False
+    if re.search('Executive', text):
+        return False
+    if re.search('Seeding', text):
+        return False
+    return True
+def getAward(id, text):
+    if id == 'notable-awards':
+        year = text[:7]
+        if '-' in year:
+            year = text[:4] + '-' + str(int(text[:4])+1)
+        else:
+            year = str(int(text[:4])-1) + '-' + text[:4]
+
+        text = text[text.find('(')+1 : -1]
+        if text == 'Michael Jordan Trophy':
+            text = 'mvp'
+        if text == 'Wilt Chamberlain Trophy':
+            text = 'roty'
+        if text == 'Hakeem Olajuwon Trophy':
+            text = 'dpoy'
+        if text == 'John Havlicek Trophy':
+            text = 'smoy'
+        if text == 'George Mikan Trophy':
+            text = 'mip'
+        if text == 'Bill Russell Trophy':
+            text = 'finals-mvp'
+        if text == 'Larry Bird Trophy':
+            text = 'east-mvp'
+        if text == 'Earvin "Magic" Johnson Trophy':
+            text = 'west-mvp'
+        if text == 'Kobe Bryant Trophy':
+            text = 'allstar-mvp'
+
+        return (year, text)
+    if id == 'championships':
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        return (year, 'champion')
+    if id == 'allstar':
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        return (year, id)
+    if id == 'all_league':
+        year = text[:4] + '-' + str(int(text[:4])+1)
+
+        if 'Rookie' in text:
+            text = 'all-rookie' + text[-5:]
+        if 'NBA' in text:
+            text = 'all-nba' + text[-5:]
+        if 'Defensive' in text:
+            text = 'all-defensive' + text[-5:]
+
+        return (year, text)
+    if id == 'three_point_contests':
+        if 'Winner' not in text:
+            return None
+        
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        text = '3pt-contest-winner'
+        return (year, text)
+    if id == 'slam_dunk_contests':
+        if 'Winner' not in text:
+            return None
+        
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        text = 'dunk-contest-winner'
+        return (year, text)
+    if id == 'pts':
+        if '1st' not in text:
+            return None
+        
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        text = 'scoring-champ'
+        return (year, text)
+    if id == 'ast':
+        if '1st' not in text:
+            return None
+        
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        text = 'ast-champ'
+        return (year, text)
+    if id == 'trb':
+        if '1st' not in text:
+            return None
+        
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        text = 'reb-champ'
+        return (year, text)
+    if id =='stl':
+        if '1st' not in text:
+            return None
+        
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        text = 'stl-champ'
+        return (year, text)
+    if id =='blk':
+        if '1st' not in text:
+            return None
+        
+        year = str(int(text[:4])-1) + '-' + text[:4]
+        text = 'blk-champ'
+        return (year, text)
+    return None
 
 if __name__ == '__main__':
-    print("maybe")
-    
+    print("------------------------------")
+
     players = retrieve_data('players.txt')
-    length = float(len(players))
-    reqs = 0
-    for player in players:
-        if reqs % 18 == 0 and reqs > 0:
-            print('{:.2f}'.format(reqs/length))
-            print('Pausing...')
-            time.sleep(65)
-            
-        print(players[player]['url'])
-        set_player_data(players[player])
-        reqs += 1
-    
-    print('Done')
-    print('Initializing prompt stuff...')
-    time.sleep(5)
 
     inp = input('Which player?\n')
-
-    while inp != '?':
+    while inp != 'end':
         try:
+            set_player_data(players[inp])
+            print('\n-------------------------------\n')
             print(json.dumps(players[inp], indent=4))
             print('\n-------------------------------\n')
         except KeyError:
-            print('Invalid name')
+            print('Invalid name. Try Again...')
+            print('\n-------------------------------\n')
         
         inp = input('Which player?\n')
+    
+    # set_player_data(player)
+    # print(json.dumps(player, indent=4))
+
+    # players = retrieve_data('players.txt')
+    # length = float(len(players))
+    # reqs = 0
+    # for player in players:
+    #     if reqs % 18 == 0 and reqs > 0:
+    #         print('{:.2f}'.format(reqs/length))
+    #         print('Pausing...')
+    #         time.sleep(65)
+            
+    #     print(players[player]['url'])
+    #     set_player_data(players[player])
+    #     reqs += 1
+    
+    # print('Done')
+    # print('Initializing prompt stuff...')
+    # time.sleep(5)
+
+    # inp = input('Which player?\n')
+
+    # while inp != '?':
+    #     try:
+    #         print(json.dumps(players[inp], indent=4))
+    #         print('\n-------------------------------\n')
+    #     except KeyError:
+    #         print('Invalid name')
+        
+    #     inp = input('Which player?\n')
     
 
     # FORMAT FOR MAIN METHOD IN FULL
