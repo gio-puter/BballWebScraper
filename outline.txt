@@ -66,6 +66,7 @@ players = {
             },
             '2027-2048' : {
                 'salary' : 51208000,
+                'option' : Team/Player/None
             }
         },
     },
