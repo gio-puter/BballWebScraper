@@ -1,5 +1,7 @@
 import datetime
-from helperFunctions import monthConvert, countryConvert, cleanAwardID, cleanAwardText, getAward, yearConvert, salaryConvert
+import re
+import json
+from helperFunctions import monthConvert, countryConvert, cleanAwardID, cleanAwardText, getAward, yearConvert, salaryConvert, getTeamDict
 
 
 """ Adds player's metadata to their bio
@@ -100,7 +102,6 @@ def set_bio(html, player):
 
     if 'draft-info' not in player['bio']: player['bio']['draft-info'] = {'round' : 'Undrafted'}
 
-
 """ Adds player's awards to their awards list by year
 e.g.
 'awards' : {
@@ -155,12 +156,14 @@ def set_contract(html, player):
     contract = {}
     collection = html.find(id = 'div_contract')
 
-    if collection is None:
+    if not collection:
         player['contract'] = contract
+        return
     
     collection = collection.find('div', {'class' : 'table_container'})
-    if collection is None:
+    if not collection:
         player['contract'] = contract
+        return
     
     years = collection.find_all('th')[1:]
     salaries = collection.find_all('td')[1:]
@@ -176,7 +179,7 @@ def set_contract(html, player):
         salary = salaryConvert(salary)
 
         option = salaries[i].find('span').get('class')
-        if option == []:
+        if not option:
             option = ''
         elif 'tm' in option[0]:
             option = 'Team'
@@ -188,5 +191,552 @@ def set_contract(html, player):
 
     player['contract'] = contract
 
+""" Adds player's reg. and playoff total stats (per game can be extrapolated by rounding to nearest tenth)
+Season/Year
+Team
+G
+GS
+MP
+FG
+FGA (percentage can be extrapolated by rounding to nearest thousandth, same with effective field goal percentage)
+3P
+3PA
+2P
+2PA
+FT
+FTA
+ORB
+DRB
+TRB
+AST
+STL
+BLK
+TOV
+PF
+PTS
+Triple-Doubles
+"""
+def set_stats(html, player):
+    reg_totals_html = html.find(id = 'totals')
+    reg_per_poss_html = html.find(id = 'per_poss')
+    reg_advanced_html = html.find(id = 'advanced')
+    reg_adjusted_shooting_html = html.find(id = 'adj_shooting')
+    reg_pbp_html = html.find(id = 'pbp')
+    reg_shooting_html = html.find(id = 'shooting')
 
+    player['reg-stats'] = set_reg_stats(reg_totals_html)
+    set_reg_per_poss(reg_per_poss_html, player['reg-stats'])
+    set_reg_advanced(reg_advanced_html, player['reg-stats'])
+    set_reg_adjusted_shooting(reg_adjusted_shooting_html, player['reg-stats'])
+    set_reg_pbp(reg_pbp_html, player['reg-stats'])
+    set_reg_shooting(reg_shooting_html, player['reg-stats'])
 
+    playoff_totals_html = html.find(id = 'playoffs_totals')
+    playoff_per_poss_html = html.find(id = 'playoffs_per_poss')
+    playoff_advanced_html = html.find(id = 'playoffs_advanced')
+    playoff_pbp_html = html.find(id = 'playoffs_pbp')
+    playoff_shooting_html = html.find(id = 'playoffs_shooting')
+
+    player['playoff-stats'] = set_playoff_stats(playoff_totals_html)
+    set_playoff_per_poss(playoff_per_poss_html, player['playoff-stats'])
+    set_playoff_advanced(playoff_advanced_html, player['playoff-stats'])
+    set_playoff_pbp(playoff_pbp_html, player['playoff-stats'])
+    set_playoff_shooting(playoff_shooting_html, player['playoff-stats'])
+
+def set_reg_stats(html):
+    reg_stats = {}
+    if not html:
+        return reg_stats
+    
+    rows = html.find('tbody').find_all('tr')
+    abbrevTeam = {v: k for k, v in getTeamDict().items()}
+
+    teamCount = 0
+    for row in rows:
+        year = yearConvert(row.find('th').getText())
+
+        try:
+            key = 'team' + str(teamCount)
+            reg_stats[year][key] = {}
+            start = reg_stats[year][key]
+            teamCount += 1
+        except:
+            reg_stats[year] = {}
+            start = reg_stats[year]
+            teamCount = 0
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            if type in ('age', 'lg', 'DUMMY', 'pos'): #or re.search(r'pct$', type):
+                continue
+            
+            if type == 'team':
+                stat = abbrevTeam[data_stat.getText()]
+            else:
+                try:
+                    stat = int(data_stat.getText())
+                except:
+                    try:
+                        stat = float(data_stat.getText())
+                    except:
+                        continue
+
+            # stat = abbrevTeam[data_stat.getText()] if type == 'team' else int(data_stat.getText())
+            start[type] = stat
+
+    return reg_stats
+
+def set_reg_per_poss(html, reg_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        reg_per_poss = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = reg_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = reg_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            
+            if 'poss' not in type and 'rtg' not in type:
+                continue
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            reg_per_poss[type] = stat
+
+        try:
+            start['advanced'].update(reg_per_poss)
+        except:
+            start['advanced'] = reg_per_poss
+
+def set_reg_advanced(html, reg_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        reg_advanced = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = reg_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = reg_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            if type not in ('per', 'ts-pct', 'fg3a-per-fga-pct', 
+                            'fta-per-fga-pct', 'orb-pct', 'drb-pct', 
+                            'trb-pct', 'ast-pct', 'stl-pct', 'blk_pct',
+                            'tov-pct', 'usg-pct', 'ows', 'dws', 'ws', 
+                            'ws-per-48', 'obpm', 'dbpm', 'bpm', 'vorp'):
+                continue
+
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            if 'per-fga-pct' in type:
+                index = type.find('-per-fga-pct')
+                type = type[:index] + '-rate'
+
+            reg_advanced[type] = stat
+
+        try:
+            start['advanced'].update(reg_advanced)
+        except:
+            start['advanced'] = reg_advanced
+
+def set_reg_adjusted_shooting(html, reg_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        reg_adjusted_shooting = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = reg_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = reg_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            
+            if 'adj' not in type and 'added' not in type:
+                continue
+
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except: 
+                    continue
+
+            if 'per-fga-pct' in type:
+                index = type.find('-per-fga-pct')
+                type = type[:index] + '-rate'
+
+            reg_adjusted_shooting[type] = stat
+
+        try:
+            start['advanced'].update(reg_adjusted_shooting)
+        except:
+            start['advanced'] = reg_adjusted_shooting
+
+def set_reg_pbp(html, reg_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        reg_pbp = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = reg_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = reg_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            
+            if type in ['season', 'age', 'team', 'lg', 'pos', 'g', 'mp'] or 'pct' in type:
+                continue
+
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            reg_pbp[type] = stat
+
+        try:
+            start['advanced'].update(reg_pbp)
+        except:
+            start['advanced'] = reg_pbp
+
+def set_reg_shooting(html, reg_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        reg_shooting = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = reg_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = reg_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            
+            if ('fg' not in type and 'pct' not in type and 'dist' not in type):
+                continue
+
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            if 'pct-fga-' in type:
+                index = len('pct-fga-')
+                type = type[index:] + '-rate'
+            elif 'fg-pct-' in type: 
+                index = len('fg-pct-')
+                type = type[index:] + '-pct'
+                type = type.replace('a', '')
+            elif 'pct-ast-' in type:
+                index = len('pct-ast-')
+                type = 'assisted-' + type[index:] + '-pct'
+            elif 'pct-fg3a-corner3' == type:
+                type = 'corner3-rate'
+                
+            reg_shooting[type] = stat
+
+        try:
+            start['advanced'].update(reg_shooting)
+        except:
+            start['advanced'] = reg_shooting
+
+def set_playoff_stats(html):
+    playoff_stats = {}
+    if not html:
+        return playoff_stats
+
+    rows = html.find('tbody').find_all('tr')
+    abbrevTeam = {v: k for k, v in getTeamDict().items()}
+
+    for row in rows:
+        year = yearConvert(row.find('th').getText())
+        playoff_stats[year] = {}
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            if type in ('age', 'lg', 'DUMMY', 'pos') or re.search(r'pct$', type):
+                continue
+            
+            stat = abbrevTeam[data_stat.getText()] if type == 'team' else int(data_stat.getText())
+            playoff_stats[year][type] = stat
+
+    return playoff_stats
+    
+def set_playoff_per_poss(html, playoff_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        playoff_per_poss = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = playoff_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = playoff_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            
+            if 'poss' not in type and 'rtg' not in type:
+                continue
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            playoff_per_poss[type] = stat
+
+        try:
+            start['advanced'].update(playoff_per_poss)
+        except:
+            start['advanced'] = playoff_per_poss
+
+def set_playoff_advanced(html, playoff_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        playoff_advanced = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = playoff_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = playoff_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            if type not in ('per', 'ts-pct', 'fg3a-per-fga-pct', 
+                            'fta-per-fga-pct', 'orb-pct', 'drb-pct', 
+                            'trb-pct', 'ast-pct', 'stl-pct', 'blk_pct',
+                            'tov-pct', 'usg-pct', 'ows', 'dws', 'ws', 
+                            'ws-per-48', 'obpm', 'dbpm', 'bpm', 'vorp'):
+                continue
+
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            if 'per-fga-pct' in type:
+                index = type.find('-per-fga-pct')
+                type = type[:index] + '-rate'
+
+            playoff_advanced[type] = stat
+
+        try:
+            start['advanced'].update(playoff_advanced)
+        except:
+            start['advanced'] = playoff_advanced
+
+def set_playoff_pbp(html, playoff_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        playoff_pbp = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = playoff_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = playoff_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            
+            if type in ['season', 'age', 'team', 'lg', 'pos', 'g', 'mp'] or 'pct' in type:
+                continue
+
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            playoff_pbp[type] = stat
+
+        try:
+            start['advanced'].update(playoff_pbp)
+        except:
+            start['advanced'] = playoff_pbp
+
+def set_playoff_shooting(html, playoff_stats):
+    if not html:
+        return {}
+
+    rows = html.find('tbody').find_all('tr')
+
+    teamCount = 0
+    lastYear = ''
+    for row in rows:
+        playoff_shooting = {}
+        year = yearConvert(row.find('th').getText())
+
+        if lastYear == year:
+            string = 'team' + str(teamCount)
+            start = playoff_stats[year][string]
+            teamCount += 1
+        else:
+            teamCount = 0
+            start = playoff_stats[year]
+            lastYear = year
+
+        season = row.find_all('td')
+        for data_stat in season:
+            type = re.sub(r'_', '-', re.sub(r'_id$', '', data_stat.get('data-stat')))
+            
+            if ('fg' not in type and 'pct' not in type and 'dist' not in type):
+                continue
+
+            try:
+                stat = int(data_stat.getText())
+            except:
+                try:
+                    stat = float(data_stat.getText())
+                except:
+                    continue
+
+            if 'pct-fga-' in type:
+                index = len('pct-fga-')
+                type = type[index:] + '-rate'
+            elif 'fg-pct-' in type: 
+                index = len('fg-pct-')
+                type = type[index:] + '-pct'
+                type = type.replace('a', '')
+            elif 'pct-ast-' in type:
+                index = len('pct-ast-')
+                type = 'assisted-' + type[index:] + '-pct'
+            elif 'pct-fg3a-corner3' == type:
+                type = 'corner3-rate'
+                
+            playoff_shooting[type] = stat
+
+        try:
+            start['advanced'].update(playoff_shooting)
+        except:
+            start['advanced'] = playoff_shooting
+
+    

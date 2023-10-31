@@ -3,6 +3,46 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+squads = {
+    'Boston Celtics' : 'BOS',
+    'Philadelphia 76ers' : 'PHI',
+    'New York Knicks' : 'NYK',
+    'Brooklyn Nets' : 'BRK',
+    'Toronto Raptors' : 'TOR',
+    'Milwaukee Bucks' : 'MIL',
+    'Cleveland Cavaliers' : 'CLE',
+    'Chicago Bulls' : 'CHI',
+    'Indiana Pacers' : 'IND',
+    'Detroit Pistons' : 'DET',
+    'Atlanta Hawks' : 'ATL',
+    'Miami Heat' : 'MIA',
+    'Washington Wizards' : 'WAS',
+    'Orlando Magic' : 'ORL',
+    'Charlotte Hornets' : 'CHO',
+    'Denver Nuggets' : 'DEN',
+    'Minnesota Timberwolves' : 'MIN',
+    'Oklahoma City Thunder' : 'OKC',
+    'Utah Jazz' : 'UTA',
+    'Portland Trail Blazers' : 'POR',
+    'Sacramento Kings' : 'SAC',
+    'Phoenix Suns' : 'PHX',
+    'Phoneix Suns' : 'PHO',
+    'Los Angeles Clippers' : 'LAC',
+    'Los Angeles Lakers' : 'LAL',
+    'Golden State Warriors' : 'GSW',
+    'Memphis Grizzlies' : 'MEM',
+    'New Orleans Pelicans' : 'NOP',
+    'Dallas Mavericks' : 'DAL',
+    'Houston Rockets' : 'HOU',
+    'San Antonio Spurs' : 'SAS',
+    'New Orleans Hornets' : 'NOH',
+    'New Orleans/Oklahoma City Hornets' : 'NOK',
+    'Seattle SuperSonics' : 'SEA',
+    'Charlotte Bobcats' : 'CHA',
+    'New Jersey Nets' : 'NJN',
+    'Multiple Teams' : 'TOT'
+}
+
 def get_soup(url):
     page = requests.get(url)
     page = page.text.replace("<!--", "").replace("-->", "")
@@ -19,43 +59,9 @@ def retrieve_data(get_file):
     except:
         return None
 
+def getTeamDict():
+    return squads
 def teamAbbrev(team_name):
-    squads = {
-        'Boston Celtics' : 'BOS',
-        'Philadelphia 76ers' : 'PHI',
-        'New York Knicks' : 'NY',
-        'Brooklyn Nets' : 'BKN',
-        'Toronto Raptors' : 'TOR',
-        'Milwaukee Bucks' : 'MIL',
-        'Cleveland Cavaliers' : 'CLE',
-        'Chicago Bulls' : 'CHI',
-        'Indiana Pacers' : 'IND',
-        'Detroit Pistons' : 'DET',
-        'Atlanta Hawks' : 'ATL',
-        'Miami Heat' : 'MIA',
-        'Washington Wizards' : 'WSH',
-        'Orlando Magic' : 'ORL',
-        'Charlotte Hornets' : 'CHA',
-        'Denver Nuggets' : 'DEN',
-        'Minnesota Timberwolves' : 'MIN',
-        'Oklahoma City Thunder' : 'OKC',
-        'Utah Jazz' : 'UTAH',
-        'Portland Trailblazers' : 'POR',
-        'Sacramento Kings' : 'SAC',
-        'Phoenix Suns' : 'PHX',
-        'Los Angeles Clippers' : 'LAC',
-        'Los Angeles Lakers' : 'LAL',
-        'Golden State Warriors' : 'GS',
-        'Memphis Grizzlies' : 'MEM',
-        'New Orleans Pelicans' : 'NO',
-        'Dallas Mavericks' : 'DAL',
-        'Houston Rockets' : 'HOU',
-        'San Antonio Spurs' : 'SA',
-        'New Orleans Hornets' : 'NO',
-        'Seattle SuperSonics' : 'SEA',
-        'Charlotte Bobcats' : 'CHA',
-        'New Jersey Nets' : 'NJ'
-    }
     return squads[team_name]
 def monthConvert(month):
     monthConvert = {
