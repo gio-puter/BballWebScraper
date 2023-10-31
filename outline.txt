@@ -10,7 +10,7 @@ players = {
        'bio' : {
             'name' : "Domantas Sabonis",
             'age' : 27,
-            'position' : {'PF', 'C'},
+            'position' : ['PF', 'C'] # set is not serializable so a list will do
             'hand' : 'L',
             'height' : 83, # inches
             'weight' : 240, # pounds
@@ -19,11 +19,10 @@ players = {
                 'round' : 1,
                 'pick' : 11,
                 'year' : 2016,
-                
+                'team' : 'OKC',
             },
             'country' : 'USA',
             'experience' :  7, # years
-            'team' : 'SAC',
             'jersey-num' : 10,
         },
         'reg-stats' : { # include advanced stats
@@ -49,13 +48,10 @@ players = {
             '2020-2021' : {
                 'all-star' : True
             },
-            '2022-2023' : {
-                'all-star' : True,
-                'all-nba' : '3rd',
-                'league-leader' : {'reb'}
-            }
+            '2022-2023' : ['all-star', 'all-nba(3rd)', 'reb-leader']
         },
         'contract' : {
+            'team' : 'SAC',
             '2023-2024' : {
                 'salary': 30600000,
             },
@@ -70,6 +66,7 @@ players = {
             },
             '2027-2048' : {
                 'salary' : 51208000,
+                'option' : Team/Player/None
             }
         },
     },

@@ -199,6 +199,15 @@
         },
         "url": "/players/b/baglema01.html"
     },
+    "Amari Bailey": {
+        "url": "/players/b/baileam01.html",
+        "bio": {
+            "fname": "Amari",
+            "lname": "Bailey",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Patrick Baldwin Jr.": {
         "bio": {
             "fname": "Patrick",
@@ -319,6 +328,15 @@
         },
         "url": "/players/b/bassech01.html"
     },
+    "Emoni Bates": {
+        "url": "/players/b/batesem01.html",
+        "bio": {
+            "fname": "Emoni",
+            "lname": "Bates",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Keita Bates-Diop": {
         "bio": {
             "fname": "Keita",
@@ -423,6 +441,15 @@
         },
         "url": "/players/b/beyty01.html"
     },
+    "Tarik Biberovic": {
+        "url": "/players/b/biberta01.html",
+        "bio": {
+            "fname": "Tarik",
+            "lname": "Biberovic",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Khem Birch": {
         "bio": {
             "fname": "Khem",
@@ -446,6 +473,15 @@
             "suffix": ""
         },
         "url": "/players/b/biyombi01.html"
+    },
+    "Anthony Black": {
+        "url": "/players/b/blackan01.html",
+        "bio": {
+            "fname": "Anthony",
+            "lname": "Black",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Buddy Boeheim": {
         "bio": {
@@ -711,6 +747,15 @@
         },
         "url": "/players/b/browntr01.html"
     },
+    "Kobe Brown": {
+        "url": "/players/b/brownko01.html",
+        "bio": {
+            "fname": "Kobe",
+            "lname": "Brown",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Jalen Brunson": {
         "bio": {
             "fname": "Jalen",
@@ -734,6 +779,15 @@
             "suffix": ""
         },
         "url": "/players/b/buchash01.html"
+    },
+    "Kobe Bufkin": {
+        "url": "/players/b/bufkiko01.html",
+        "bio": {
+            "fname": "Kobe",
+            "lname": "Bufkin",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Reggie Bullock": {
         "bio": {
@@ -822,6 +876,15 @@
             "suffix": ""
         },
         "url": "/players/c/caldwke01.html"
+    },
+    "Toumani Camara": {
+        "url": "/players/c/camarto01.html",
+        "bio": {
+            "fname": "Toumani",
+            "lname": "Camara",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Facundo Campazzo": {
         "bio": {
@@ -967,6 +1030,15 @@
         },
         "url": "/players/c/chrisjo01.html"
     },
+    "Sidy Cissoko": {
+        "url": "/players/c/cissosi01.html",
+        "bio": {
+            "fname": "Sidy",
+            "lname": "Cissoko",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Gary Clark": {
         "bio": {
             "fname": "Gary",
@@ -974,6 +1046,15 @@
             "suffix": ""
         },
         "url": "/players/c/clarkga01.html"
+    },
+    "Jaylen Clark": {
+        "url": "/players/c/clarkja02.html",
+        "bio": {
+            "fname": "Jaylen",
+            "lname": "Clark",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Brandon Clarke": {
         "bio": {
@@ -1006,6 +1087,15 @@
             "suffix": ""
         },
         "url": "/players/c/clemoch01.html"
+    },
+    "Noah Clowney": {
+        "url": "/players/c/clownno01.html",
+        "bio": {
+            "fname": "Noah",
+            "lname": "Clowney",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Amir Coffey": {
         "bio": {
@@ -1078,6 +1168,15 @@
             "suffix": ""
         },
         "url": "/players/c/coopesh01.html"
+    },
+    "Bilal Coulibaly": {
+        "url": "/players/c/coulibi01.html",
+        "bio": {
+            "fname": "Bilal",
+            "lname": "Coulibaly",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "DeMarcus Cousins": {
         "bio": {
@@ -1262,6 +1361,15 @@
             "suffix": ""
         },
         "url": "/players/d/diallha01.html"
+    },
+    "Gradey Dick": {
+        "url": "/players/d/dickgr01.html",
+        "bio": {
+            "fname": "Gradey",
+            "lname": "Dick",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Gorgui Dieng": {
         "bio": {
@@ -1711,6 +1819,15 @@
         },
         "url": "/players/g/georgpa01.html"
     },
+    "Keyonte George": {
+        "url": "/players/g/georgke01.html",
+        "bio": {
+            "fname": "Keyonte",
+            "lname": "George",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Taj Gibson": {
         "bio": {
             "fname": "Taj",
@@ -1918,6 +2035,15 @@
             "suffix": ""
         },
         "url": "/players/g/grimequ01.html"
+    },
+    "Mouhamed Gueye": {
+        "url": "/players/g/gueyemo02.html",
+        "bio": {
+            "fname": "Mouhamed",
+            "lname": "Gueye",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Kyle Guy": {
         "bio": {
@@ -2127,6 +2253,15 @@
         },
         "url": "/players/h/hausesa01.html"
     },
+    "Jordan Hawkins": {
+        "url": "/players/h/hawkijo01.html",
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Hawkins",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Jaxson Hayes": {
         "bio": {
             "fname": "Jaxson",
@@ -2150,6 +2285,24 @@
             "suffix": ""
         },
         "url": "/players/h/haywago01.html"
+    },
+    "Scoot Henderson": {
+        "url": "/players/h/hendesc01.html",
+        "bio": {
+            "fname": "Scoot",
+            "lname": "Henderson",
+            "suffix": "",
+            "experience": 0
+        }
+    },
+    "Taylor Hendricks": {
+        "url": "/players/h/hendrita01.html",
+        "bio": {
+            "fname": "Taylor",
+            "lname": "Hendricks",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Dewan Hernandez": {
         "bio": {
@@ -2264,12 +2417,22 @@
         "url": "/players/h/holmeri01.html"
     },
     "Chet Holmgren": {
+        "url": "/players/h/holmgch01.html",
         "bio": {
-            "experience": 0,
             "fname": "Chet",
-            "lname": "Holmgren"
-        },
-        "url": "/players/h/holmgch01.html"
+            "lname": "Holmgren",
+            "suffix": "",
+            "experience": 0
+        }
+    },
+    "Jalen Hood-Schifino": {
+        "url": "/players/h/hoodsja01.html",
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Hood-Schifino",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Scotty Hopson": {
         "bio": {
@@ -2310,6 +2473,15 @@
             "suffix": ""
         },
         "url": "/players/h/houstca01.html"
+    },
+    "Jett Howard": {
+        "url": "/players/h/howarje01.html",
+        "bio": {
+            "fname": "Jett",
+            "lname": "Howard",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Trevor Hudgins": {
         "bio": {
@@ -2495,6 +2667,33 @@
         },
         "url": "/players/j/jacksre01.html"
     },
+    "Andre Jackson Jr.": {
+        "url": "/players/j/jacksan01.html",
+        "bio": {
+            "fname": "Andre",
+            "lname": "Jackson",
+            "suffix": "Jr.",
+            "experience": 0
+        }
+    },
+    "Gregory Jackson II": {
+        "url": "/players/j/jacksgg01.html",
+        "bio": {
+            "fname": "Gregory",
+            "lname": "Jackson",
+            "suffix": "II",
+            "experience": 0
+        }
+    },
+    "Trayce Jackson-Davis": {
+        "url": "/players/j/jackstr02.html",
+        "bio": {
+            "fname": "Trayce",
+            "lname": "Jackson-Davis",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Justin James": {
         "bio": {
             "fname": "Justin",
@@ -2510,6 +2709,15 @@
             "suffix": ""
         },
         "url": "/players/j/jamesle01.html"
+    },
+    "Jaime Jaquez Jr.": {
+        "url": "/players/j/jaqueja01.html",
+        "bio": {
+            "fname": "Jaime",
+            "lname": "Jaquez",
+            "suffix": "Jr.",
+            "experience": 0
+        }
     },
     "DaQuan Jeffries": {
         "bio": {
@@ -2607,6 +2815,15 @@
         },
         "url": "/players/j/johnsst04.html"
     },
+    "Keyontae Johnson": {
+        "url": "/players/j/johnske08.html",
+        "bio": {
+            "fname": "Keyontae",
+            "lname": "Johnson",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Nikola Joki\u0107": {
         "bio": {
             "fname": "Nikola",
@@ -2686,6 +2903,15 @@
             "suffix": ""
         },
         "url": "/players/j/jonesty01.html"
+    },
+    "Colby Jones": {
+        "url": "/players/j/jonesco02.html",
+        "bio": {
+            "fname": "Colby",
+            "lname": "Jones",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "DeAndre Jordan": {
         "bio": {
@@ -2782,6 +3008,15 @@
             "suffix": ""
         },
         "url": "/players/k/kinglo02.html"
+    },
+    "Mojave King": {
+        "url": "/players/k/kingmo01.html",
+        "bio": {
+            "fname": "Mojave",
+            "lname": "King",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Corey Kispert": {
         "bio": {
@@ -2991,6 +3226,15 @@
         },
         "url": "/players/l/lewiski01.html"
     },
+    "Maxwell Lewis": {
+        "url": "/players/l/lewisma05.html",
+        "bio": {
+            "fname": "Maxwell",
+            "lname": "Lewis",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Damian Lillard": {
         "bio": {
             "fname": "Damian",
@@ -3007,6 +3251,15 @@
         },
         "url": "/players/l/littlna01.html"
     },
+    "Dereck Lively II": {
+        "url": "/players/l/livelde01.html",
+        "bio": {
+            "fname": "Dereck",
+            "lname": "Lively",
+            "suffix": "II",
+            "experience": 0
+        }
+    },
     "Isaiah Livers": {
         "bio": {
             "fname": "Isaiah",
@@ -3014,6 +3267,15 @@
             "suffix": ""
         },
         "url": "/players/l/liveris01.html"
+    },
+    "Chris Livingston": {
+        "url": "/players/l/livinch01.html",
+        "bio": {
+            "fname": "Chris",
+            "lname": "Livingston",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Kenneth Lofton Jr.": {
         "bio": {
@@ -3070,6 +3332,15 @@
             "suffix": ""
         },
         "url": "/players/l/lowryky01.html"
+    },
+    "Seth Lundy": {
+        "url": "/players/l/lundyse01.html",
+        "bio": {
+            "fname": "Seth",
+            "lname": "Lundy",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Timoth\u00e9 Luwawu-Cabarrot": {
         "bio": {
@@ -3415,6 +3686,33 @@
         },
         "url": "/players/m/millema01.html"
     },
+    "Brandon Miller": {
+        "url": "/players/m/millebr02.html",
+        "bio": {
+            "fname": "Brandon",
+            "lname": "Miller",
+            "suffix": "",
+            "experience": 0
+        }
+    },
+    "Leonard Miller": {
+        "url": "/players/m/millele01.html",
+        "bio": {
+            "fname": "Leonard",
+            "lname": "Miller",
+            "suffix": "",
+            "experience": 0
+        }
+    },
+    "Jordan Miller": {
+        "url": "/players/m/millejo02.html",
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Miller",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Patty Mills": {
         "bio": {
             "fname": "Patty",
@@ -3615,6 +3913,15 @@
         },
         "url": "/players/m/murrake02.html"
     },
+    "Kris Murray": {
+        "url": "/players/m/murrakr01.html",
+        "bio": {
+            "fname": "Kris",
+            "lname": "Murray",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Mike Muscala": {
         "bio": {
             "fname": "Mike",
@@ -3702,6 +4009,15 @@
             "suffix": ""
         },
         "url": "/players/n/nnajize01.html"
+    },
+    "James Nnaji": {
+        "url": "/players/n/nnajija01.html",
+        "bio": {
+            "fname": "James",
+            "lname": "Nnaji",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Nerlens Noel": {
         "bio": {
@@ -3943,6 +4259,15 @@
         },
         "url": "/players/p/perryre01.html"
     },
+    "Julian Phillips": {
+        "url": "/players/p/phillju01.html",
+        "bio": {
+            "fname": "Julian",
+            "lname": "Phillips",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Jamorko Pickett": {
         "bio": {
             "fname": "Jamorko",
@@ -3950,6 +4275,15 @@
             "suffix": ""
         },
         "url": "/players/p/pickeja01.html"
+    },
+    "Jalen Pickett": {
+        "url": "/players/p/pickeja02.html",
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Pickett",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Theo Pinson": {
         "bio": {
@@ -3974,6 +4308,15 @@
             "suffix": ""
         },
         "url": "/players/p/plumlma01.html"
+    },
+    "Brandin Podziemski": {
+        "url": "/players/p/podzibr01.html",
+        "bio": {
+            "fname": "Brandin",
+            "lname": "Podziemski",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Jakob Poeltl": {
         "bio": {
@@ -4118,6 +4461,15 @@
             "suffix": ""
         },
         "url": "/players/p/pritcpa01.html"
+    },
+    "Olivier-Maxence Prosper": {
+        "url": "/players/p/prospol01.html",
+        "bio": {
+            "fname": "Olivier-Maxence",
+            "lname": "Prosper",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Trevelin Queen": {
         "bio": {
@@ -4367,6 +4719,15 @@
         },
         "url": "/players/r/rubiori01.html"
     },
+    "Rayan Rupert": {
+        "url": "/players/r/ruperra01.html",
+        "bio": {
+            "fname": "Rayan",
+            "lname": "Rupert",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "D'Angelo Russell": {
         "bio": {
             "fname": "D'Angelo",
@@ -4406,6 +4767,15 @@
             "suffix": ""
         },
         "url": "/players/s/sarrol01.html"
+    },
+    "Marcus Sasser": {
+        "url": "/players/s/sassema01.html",
+        "bio": {
+            "fname": "Marcus",
+            "lname": "Sasser",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Jordan Schakel": {
         "bio": {
@@ -4447,6 +4817,15 @@
         },
         "url": "/players/s/seabrde01.html"
     },
+    "Brice Sensabaugh": {
+        "url": "/players/s/sensabr01.html",
+        "bio": {
+            "fname": "Brice",
+            "lname": "Sensabaugh",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Collin Sexton": {
         "bio": {
             "fname": "Collin",
@@ -4486,6 +4865,15 @@
             "suffix": ""
         },
         "url": "/players/s/shayoma01.html"
+    },
+    "Ben Sheppard": {
+        "url": "/players/s/sheppbe01.html",
+        "bio": {
+            "fname": "Ben",
+            "lname": "Sheppard",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Pascal Siakam": {
         "bio": {
@@ -4559,6 +4947,15 @@
         },
         "url": "/players/s/sirvyde01.html"
     },
+    "Jalen Slawson": {
+        "url": "/players/s/slawsja01.html",
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Slawson",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Alen Smailagi\u0107": {
         "bio": {
             "fname": "Alen",
@@ -4631,6 +5028,15 @@
         },
         "url": "/players/s/smithzh01.html"
     },
+    "Nick Smith Jr.": {
+        "url": "/players/s/smithni01.html",
+        "bio": {
+            "fname": "Nick",
+            "lname": "Smith",
+            "suffix": "Jr.",
+            "experience": 0
+        }
+    },
     "Xavier Sneed": {
         "bio": {
             "fname": "Xavier",
@@ -4702,6 +5108,15 @@
             "suffix": ""
         },
         "url": "/players/s/stewais01.html"
+    },
+    "Julian Strawther": {
+        "url": "/players/s/strawju01.html",
+        "bio": {
+            "fname": "Julian",
+            "lname": "Strawther",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Max Strus": {
         "bio": {
@@ -4847,6 +5262,24 @@
         },
         "url": "/players/t/thomptr01.html"
     },
+    "Amen Thompson": {
+        "url": "/players/t/thompam01.html",
+        "bio": {
+            "fname": "Amen",
+            "lname": "Thompson",
+            "suffix": "",
+            "experience": 0
+        }
+    },
+    "Ausar Thompson": {
+        "url": "/players/t/thompau01.html",
+        "bio": {
+            "fname": "Ausar",
+            "lname": "Thompson",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "JT Thor": {
         "bio": {
             "fname": "JT",
@@ -4943,6 +5376,15 @@
         },
         "url": "/players/t/turnemy01.html"
     },
+    "Hunter Tyson": {
+        "url": "/players/t/tysonhu01.html",
+        "bio": {
+            "fname": "Hunter",
+            "lname": "Tyson",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Stanley Umude": {
         "bio": {
             "fname": "Stanley",
@@ -5006,6 +5448,15 @@
             "suffix": ""
         },
         "url": "/players/v/vonleno01.html"
+    },
+    "Tristan Vukcevic": {
+        "url": "/players/v/vukcetr01.html",
+        "bio": {
+            "fname": "Tristan",
+            "lname": "Vukcevic",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Nikola Vu\u010devi\u0107": {
         "bio": {
@@ -5079,6 +5530,15 @@
         },
         "url": "/players/w/walkemj01.html"
     },
+    "Jarace Walker": {
+        "url": "/players/w/walkeja02.html",
+        "bio": {
+            "fname": "Jarace",
+            "lname": "Walker",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "John Wall": {
         "bio": {
             "fname": "John",
@@ -5086,6 +5546,24 @@
             "suffix": ""
         },
         "url": "/players/w/walljo01.html"
+    },
+    "Cason Wallace": {
+        "url": "/players/w/wallaca01.html",
+        "bio": {
+            "fname": "Cason",
+            "lname": "Wallace",
+            "suffix": "",
+            "experience": 0
+        }
+    },
+    "Jordan Walsh": {
+        "url": "/players/w/walshjo01.html",
+        "bio": {
+            "fname": "Jordan",
+            "lname": "Walsh",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "T.J. Warren": {
         "bio": {
@@ -5175,6 +5653,15 @@
         },
         "url": "/players/w/welshth01.html"
     },
+    "Victor Wembanyama": {
+        "url": "/players/w/wembavi01.html",
+        "bio": {
+            "fname": "Victor",
+            "lname": "Wembanyama",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Blake Wesley": {
         "bio": {
             "fname": "Blake",
@@ -5222,6 +5709,24 @@
             "suffix": ""
         },
         "url": "/players/w/whiteok01.html"
+    },
+    "Dariq Whitehead": {
+        "url": "/players/w/whiteda01.html",
+        "bio": {
+            "fname": "Dariq",
+            "lname": "Whitehead",
+            "suffix": "",
+            "experience": 0
+        }
+    },
+    "Cam Whitmore": {
+        "url": "/players/w/whitmca01.html",
+        "bio": {
+            "fname": "Cam",
+            "lname": "Whitmore",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Joe Wieskamp": {
         "bio": {
@@ -5375,6 +5880,15 @@
         },
         "url": "/players/w/wilsodj01.html"
     },
+    "Jalen Wilson": {
+        "url": "/players/w/wilsoja03.html",
+        "bio": {
+            "fname": "Jalen",
+            "lname": "Wilson",
+            "suffix": "",
+            "experience": 0
+        }
+    },
     "Dylan Windler": {
         "bio": {
             "fname": "Dylan",
@@ -5406,6 +5920,15 @@
             "suffix": ""
         },
         "url": "/players/w/wisemja01.html"
+    },
+    "Isaiah Wong": {
+        "url": "/players/w/wongis01.html",
+        "bio": {
+            "fname": "Isaiah",
+            "lname": "Wong",
+            "suffix": "",
+            "experience": 0
+        }
     },
     "Christian Wood": {
         "bio": {
